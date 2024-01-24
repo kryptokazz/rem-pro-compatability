@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Manufacturer and Model Selection</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<div class="container">
+  <div class="select-box">
+    <label for="manufacturerSelect">Select Manufacturer:</label>
+    <select id="manufacturerSelect" onchange="handleManufacturerChange()">
+      <option value="selectManufacturer">Select Manufacturer</option>
+    </select>
+  </div>
+
+  <div class="select-box">
+    <label for="modelSelect">Select Model:</label>
+    <select id="modelSelect" disabled>
+      <option value="selectModel">Select Model</option>
+    </select>
+  </div>
+</div>
+
+<div id="carImagesContainer" class="container">
+</div>
+
+<script src="./script.js"></script>
+</body>
+</html>

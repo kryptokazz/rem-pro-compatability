@@ -1,0 +1,4493 @@
+[
+  {
+    "manufacturer": "4Ddoors",
+    "models": [
+      "4DS2 V1",
+      "GA103",
+      "GA203",
+      "GA403",
+      "GA501",
+      "Other"
+    ]
+  },
+  {
+    "manufacturer": "Accessmatic",
+    "models": [
+      "Bulldozer 850"
+    ]
+  },
+  {
+    "manufacturer": "ACDC",
+    "models": [
+      "EuroGlide",
+      "PowerGlide",
+      "SlimGlide"
+    ]
+  },
+  {
+    "manufacturer": "AERF",
+    "models": [
+      "DUAL 2H4 MN",
+      "POWER 1R0"
+    ]
+  },
+  {
+    "manufacturer": "AFCA",
+    "models": [
+      "START FM"
+    ]
+  },
+  {
+    "manufacturer": "AGA",
+    "models": [
+      "GateMaster 900 HD"
+    ]
+  },
+  {
+    "manufacturer": "AHOUSE",
+    "models": [
+      "EM SWING GATE",
+      "RAM 100"
+    ]
+  },
+  {
+    "manufacturer": "Aiphone",
+    "models": [
+      "JO-1FD",
+      "JO-1MDW"
+    ]
+  },
+  {
+    "manufacturer": "ALEKO",
+    "models": [
+      "13XX",
+      "22XX",
+      "AC1400",
+      "AC1500",
+      "AC1800",
+      "AC2400",
+      "AC2700",
+      "AC5700",
+      "AR1400",
+      "AR2000",
+      "AR7500",
+      "AR900",
+      "AS 1200",
+      "AS 1300",
+      "AS 450",
+      "AS 600",
+      "AS 650",
+      "AS 900",
+      "GateGuard 1300",
+      "GateGuard 1700",
+      "GateGuard 450",
+      "GateGuard 650",
+      "GateGuard 850",
+      "GateGuard 900"
+    ]
+  },
+  {
+    "manufacturer": "Alfariss",
+    "models": [
+      "V2"
+    ]
+  },
+  {
+    "manufacturer": "ALL-O-MATIC",
+    "models": [
+      "SL-100",
+      "SL-100AC",
+      "SL-100DC",
+      "SL-150",
+      "SL-150AC",
+      "SL-150DC",
+      "SL-150DC-50",
+      "SL-45DC",
+      "SL-90DC",
+      "SW-300",
+      "SW-325DC",
+      "SW-350",
+      "SW-350DC",
+      "TORO 24"
+    ]
+  },
+  {
+    "manufacturer": "ALLMATIC",
+    "models": [
+      "AV",
+      "AV1",
+      "BAX900 Control Board"
+    ]
+  },
+  {
+    "manufacturer": "ALLSTAR",
+    "models": [
+      "3000",
+      "3500",
+      "3500-P",
+      "6000",
+      "6500",
+      "6500-P",
+      "AC9000 Series",
+      "IIA (Type II)",
+      "J3500",
+      "J6500",
+      "Model GS4000 (Gate Star 4000)",
+      "MVP"
+    ]
+  },
+  {
+    "manufacturer": "Alltronik",
+    "models": [
+      "Speed 600S"
+    ]
+  },
+  {
+    "manufacturer": "Alulux",
+    "models": [
+      "Benny 3.0"
+    ]
+  },
+  {
+    "manufacturer": "Alutech",
+    "models": [
+      "Levigato (LG Series)"
+    ]
+  },
+  {
+    "manufacturer": "American Armor",
+    "models": [
+      "Ranch Hand Operator"
+    ]
+  },
+  {
+    "manufacturer": "AN-Motors",
+    "models": [
+      "ASG/Kit"
+    ]
+  },
+  {
+    "manufacturer": "Ansa",
+    "models": [
+      "RS-1",
+      "Thermaglide"
+    ]
+  },
+  {
+    "manufacturer": "APC",
+    "models": [
+      "CB-SGX12",
+      "CBSW-24",
+      "Logico 24",
+      "Proteous 450",
+      "Proteous 500"
+    ]
+  },
+  {
+    "manufacturer": "APERTO",
+    "models": [
+      "1000 S",
+      "550L",
+      "800XL",
+      "868 L",
+      "868 LX",
+      "868 S",
+      "Baseline",
+      "Baseline+"
+    ]
+  },
+  {
+    "manufacturer": "Apollo",
+    "models": [
+      "1050",
+      "1500",
+      "1550ETL",
+      "1650",
+      "1650ETL",
+      "3500ETL",
+      "3600ETL",
+      "633 Control Board",
+      "634 Control Board",
+      "635",
+      "636",
+      "641xB control board",
+      "7000ETL",
+      "835",
+      "836",
+      "936"
+    ]
+  },
+  {
+    "manufacturer": "Aprimatic",
+    "models": [
+      "ALZO 55 with Control board T230",
+      "EM51 with control board T3EC-T3SC",
+      "ONDA 424",
+      "ONDA 624"
+    ]
+  },
+  {
+    "manufacturer": "ARCO",
+    "models": [
+      "LI-2B"
+    ]
+  },
+  {
+    "manufacturer": "AS Torantriebe",
+    "models": [
+      "SK04"
+    ]
+  },
+  {
+    "manufacturer": "ASA",
+    "models": [
+      "asa300",
+      "ASA4-K31",
+      "asa400",
+      "K50 Control Baord"
+    ]
+  },
+  {
+    "manufacturer": "Assa Abloy",
+    "models": [
+      "840C-50",
+      "841C-35",
+      "841C-50",
+      "850C-50",
+      "851C-35",
+      "851C-50",
+      "LDO50"
+    ]
+  },
+  {
+    "manufacturer": "AUSSIE OPENERS",
+    "models": [
+      "1200N",
+      "800N"
+    ]
+  },
+  {
+    "manufacturer": "AUTO OPENERS",
+    "models": [
+      "Sectional Opener"
+    ]
+  },
+  {
+    "manufacturer": "Auto-Over",
+    "models": [
+      "DC850"
+    ]
+  },
+  {
+    "manufacturer": "Automat Easy",
+    "models": [
+      "SCOR 800"
+    ]
+  },
+  {
+    "manufacturer": "Automatic Remote Access",
+    "models": [
+      "Mark 1",
+      "Mark 2",
+      "PY500AC",
+      "RDO-V5"
+    ]
+  },
+  {
+    "manufacturer": "Automatic Solutions",
+    "models": [
+      "ASA600 - ID200",
+      "ASA6240-ID120"
+    ]
+  },
+  {
+    "manufacturer": "Automatic Technology",
+    "models": [
+      "ATS Series",
+      "ATS-2 Tempo",
+      "Axess Pro 1505",
+      "Axess Pro 3100",
+      "CB19",
+      "DCB-05",
+      "DCB-05V2",
+      "ESV-24MS",
+      "GDO 10V3L2",
+      "GDO-11v1 Ero",
+      "GDO-11v3",
+      "GDO-12 Hiro",
+      "GDO-2",
+      "GDO-2v5",
+      "GDO-2v6",
+      "GDO-2v7",
+      "GDO-4",
+      "GDO-6",
+      "GDO-6v2",
+      "GDO-6v3",
+      "GDO-6v4",
+      "GDO-7v1",
+      "GDO-7v2",
+      "GDO-8",
+      "GDO-8v3",
+      "GDO-9",
+      "GDO-9 Dynamo",
+      "GDO-9v2",
+      "GDO-9v2 Enduro",
+      "GDO-9v2 Gen2",
+      "GDO-9v3",
+      "NEO Slider 500",
+      "NEO Slider 800",
+      "NeoSlider NES-500",
+      "NeoSlider NES-800",
+      "NES-24V1",
+      "NES-24V1 NeoSlider",
+      "NES-24v3 NeoSlider",
+      "Securalift",
+      "SGO1v3",
+      "SGO1v4"
+    ]
+  },
+  {
+    "manufacturer": "AVANTI",
+    "models": [
+      "Garage Door",
+      "Pro 800",
+      "SDO-21",
+      "T-Series",
+      "T-series-v3"
+    ]
+  },
+  {
+    "manufacturer": "AVIDSEN",
+    "models": [
+      "1600",
+      "350",
+      "Anthea",
+      "Astrell 300",
+      "EVER212",
+      "STROMMA",
+      "Styrka",
+      "V350"
+    ]
+  },
+  {
+    "manufacturer": "B&B Proget",
+    "models": [
+      "MC4"
+    ]
+  },
+  {
+    "manufacturer": "B&D",
+    "models": [
+      "CAD P",
+      "CAD4",
+      "CAD5",
+      "CADP-Diamond series (older model)",
+      "Control-A-Door 4",
+      "Control-A-Door Diamond PD",
+      "Control-A-Door R",
+      "Control-A-Door Tri-Tran Receiver",
+      "Controll-A-Door Advance",
+      "Controll-A-Door P Diamonnd",
+      "Controll-A-Door S",
+      "Firmamatic",
+      "MPC-2",
+      "Panel Pro",
+      "Power Drive",
+      "RDO-1v2PD",
+      "RDO-1v4",
+      "RDO-2v1",
+      "Roll-A-Pro",
+      "SDO-1v2 P",
+      "SDO-2V1 PD",
+      "SDO-2v2",
+      "SDO-2v2 ADV",
+      "SDO-2v3",
+      "SDO-3V1 CADS",
+      "SDO-3V2 CADS",
+      "SDO-4V1",
+      "SDO-6",
+      "SDO-6V3",
+      "SDO-7",
+      "SDO-7V3",
+      "SDO-8",
+      "Tilt-A-Matic",
+      "TRG-306"
+    ]
+  },
+  {
+    "manufacturer": "Baisheng",
+    "models": [
+      "PKD2.3K"
+    ]
+  },
+  {
+    "manufacturer": "Belfox Torautomatik",
+    "models": [
+      "Fabia 50",
+      "Fabia 80"
+    ]
+  },
+  {
+    "manufacturer": "BENINCA",
+    "models": [
+      "BOB21M",
+      "BOB21ME",
+      "BOB3024E",
+      "BOB30M",
+      "BOB30ME",
+      "BRAINY 230",
+      "BRAINY 24",
+      "BULL 10",
+      "BULL 20M",
+      "BULL 424",
+      "BULL 5M",
+      "BULL 624",
+      "BULL 80M",
+      "BULL8 OM",
+      "BULL8M",
+      "CP.B1024ESA",
+      "CP.B24ESA",
+      "CP.BULL-RI Control unit",
+      "CP.BULL8-OM Control Board",
+      "CP.CORE",
+      "CP.J4 ESA",
+      "CP_J3 Control Unit",
+      "DA.93AM",
+      "DU350",
+      "Heady",
+      "JM3",
+      "JM3 ESA",
+      "JM4",
+      "JM4 ESA",
+      "KIT BILL 3",
+      "MS4",
+      "THINK Control Unit"
+    ]
+  },
+  {
+    "manufacturer": "BERNAL",
+    "models": [
+      "G402-120",
+      "GAMMA 600",
+      "GAMMA 900",
+      "Rallye C",
+      "Rallye MC",
+      "S 101-60",
+      "S 101-80"
+    ]
+  },
+  {
+    "manufacturer": "Berner",
+    "models": [
+      "CX1024",
+      "G70",
+      "G80",
+      "GA 101",
+      "GA 103",
+      "GA201",
+      "GA203",
+      "GA301",
+      "GA403",
+      "MS 70"
+    ]
+  },
+  {
+    "manufacturer": "BFT",
+    "models": [
+      "Alcor N",
+      "ALENA SW2 control board",
+      "ALPHA",
+      "ALPHA BOM",
+      "Altair",
+      "Altair P",
+      "Ares 1500",
+      "Ares Ultra BT A 1000",
+      "Ares Ultra BT A 1500",
+      "Argo",
+      "ARIES",
+      "ARIES P",
+      "Athos AC A",
+      "Botticelli",
+      "Botticelli Smart BT A 850-1250",
+      "Deimos",
+      "Deimos 700",
+      "DEIMOS AC A600",
+      "Deimos BT",
+      "DEIMOS BT A 400",
+      "DEIMOS BT A 600",
+      "DEIMOS ULTRA BT A 400",
+      "DEIMOS ULTRA BT A 600",
+      "ECOSOL",
+      "ELBA BU",
+      "ELI 250 BT",
+      "EOS",
+      "EOS 120",
+      "EOS 1200 U",
+      "Giuno Ultra BT",
+      "Icaro (Leo-D-Ma control panel)",
+      "Icaro Prox MA",
+      "IGEA BT (Thalia P Control Panel)",
+      "Kustos Ultra BT A",
+      "LEO B CBB 3 120 F02",
+      "LEO B CBB 3 120 F04",
+      "LEO B CBB 3 230 L02",
+      "LEO B CBB 3 230 L04",
+      "Libra C MA",
+      "LIBRA-MA-R",
+      "LIBRA-UL-R",
+      "PHEBE BT A U",
+      "Phobos BT and NT NL",
+      "Phobos N L BT",
+      "Rigel 6",
+      "Rigel4",
+      "Rigel5",
+      "STIRL F1 (control board)",
+      "Thalia",
+      "Tir 120",
+      "Tir 60",
+      "TIR 60 - 120",
+      "Tiziano",
+      "VIRGO",
+      "ZARA BTL2"
+    ]
+  },
+  {
+    "manufacturer": "Biltek",
+    "models": [
+      "sl600acl"
+    ]
+  },
+  {
+    "manufacturer": "BMG",
+    "models": [
+      "DACE CONDO",
+      "E8/D1 Control Board",
+      "LW550"
+    ]
+  },
+  {
+    "manufacturer": "BOSH",
+    "models": [
+      "Profilift"
+    ]
+  },
+  {
+    "manufacturer": "BOSS",
+    "models": [
+      "BOL4",
+      "bol5",
+      "bol6",
+      "FORZA",
+      "RD1"
+    ]
+  },
+  {
+    "manufacturer": "Boxer",
+    "models": [
+      "800N"
+    ]
+  },
+  {
+    "manufacturer": "BYAN",
+    "models": [
+      "G2M Control Board"
+    ]
+  },
+  {
+    "manufacturer": "BYOU",
+    "models": [
+      "BEAUTY"
+    ]
+  },
+  {
+    "manufacturer": "CAB",
+    "models": [
+      "DIL",
+      "DUMPER 10",
+      "DUMPER 7"
+    ]
+  },
+  {
+    "manufacturer": "Calimet",
+    "models": [
+      "CM3"
+    ]
+  },
+  {
+    "manufacturer": "CAME",
+    "models": [
+      "A3024N",
+      "A5024N",
+      "AXI Series",
+      "BK1200",
+      "BK1800",
+      "BK2200",
+      "BK800",
+      "BKE1200",
+      "BKE1800",
+      "BKE2200",
+      "BKV25AGS",
+      "BX Series",
+      "BX241",
+      "BX243",
+      "BXV Series",
+      "F7000",
+      "F7001",
+      "F7024N",
+      "KRONO 300",
+      "V1000P",
+      "V600",
+      "V6000",
+      "V6000P",
+      "V700",
+      "V900E",
+      "ZA3",
+      "ZA3N",
+      "ZA3P",
+      "ZA4",
+      "ZBX6",
+      "ZBX7",
+      "ZBX74-78",
+      "ZF1N",
+      "ZF1N110",
+      "ZL180",
+      "ZL19",
+      "ZL65",
+      "ZL90",
+      "ZL92",
+      "ZLJ24",
+      "ZLX24SA",
+      "ZLX24SR",
+      "ZM3E",
+      "ZM3EC",
+      "ZN2 (Control Board)"
+    ]
+  },
+  {
+    "manufacturer": "CARDALE",
+    "models": [
+      "DC650N",
+      "DC650T",
+      "DC68S",
+      "Thermaglide"
+    ]
+  },
+  {
+    "manufacturer": "CARDIN",
+    "models": [
+      "sl324ebsb"
+    ]
+  },
+  {
+    "manufacturer": "Casanoov",
+    "models": [
+      "Ranger C300"
+    ]
+  },
+  {
+    "manufacturer": "CASIT",
+    "models": [
+      "CN91C"
+    ]
+  },
+  {
+    "manufacturer": "Celinsa",
+    "models": [
+      "CR-17"
+    ]
+  },
+  {
+    "manufacturer": "Centsys",
+    "models": [
+      "D10",
+      "D10 Turbo",
+      "D2 Turbo",
+      "D5 EVO",
+      "V-Series",
+      "Vantage",
+      "Vector2",
+      "Vert-x"
+    ]
+  },
+  {
+    "manufacturer": "Centurion",
+    "models": [
+      "Avanti",
+      "BOL4",
+      "D10",
+      "D10 Turbo",
+      "D2 Turbo",
+      "D3",
+      "D5",
+      "D5 EVO",
+      "KS-Series (70 - 100)",
+      "R3",
+      "R5",
+      "RDO-10A",
+      "SDO-10",
+      "SDO4",
+      "V400"
+    ]
+  },
+  {
+    "manufacturer": "Challenger",
+    "models": [
+      "9300",
+      "CH-1000"
+    ]
+  },
+  {
+    "manufacturer": "Chamberlain",
+    "models": [
+      "1000SDR",
+      "1100",
+      "1200",
+      "1240R",
+      "1245R",
+      "1246R",
+      "1255R",
+      "1256R",
+      "1265",
+      "1265-267",
+      "1270",
+      "1280",
+      "1280R",
+      "1345",
+      "1345M",
+      "1346",
+      "1346M",
+      "1355",
+      "1355M",
+      "1356",
+      "1356M",
+      "182665D",
+      "182671D",
+      "2000SDR",
+      "2100",
+      "2110",
+      "2200C",
+      "2220",
+      "2220-267",
+      "2265",
+      "2265-267",
+      "2265R",
+      "2280",
+      "2280-267",
+      "2280-976",
+      "248730",
+      "248735S",
+      "248739",
+      "248754",
+      "2500B",
+      "2595",
+      "3000",
+      "3110",
+      "3130M",
+      "3220",
+      "3220-267",
+      "3240M",
+      "3245",
+      "3245CM",
+      "3245M",
+      "3255",
+      "3255-2",
+      "3255-2CM",
+      "3255-2M",
+      "3255CM",
+      "3255M",
+      "3265CM",
+      "3265CM-267",
+      "3280",
+      "3280-267",
+      "349544",
+      "3575",
+      "3595S",
+      "3800PLD",
+      "3850",
+      "3850-267",
+      "4100",
+      "4200C",
+      "4200C-2",
+      "5100",
+      "710WHC",
+      "711WHC",
+      "7200",
+      "7320",
+      "7420",
+      "7902",
+      "7902K",
+      "9902",
+      "995XD",
+      "Access Master M100",
+      "Access Master M50",
+      "AccessMaster M3100M",
+      "AccessMaster M350M",
+      "B1381T",
+      "B2202",
+      "B2202C",
+      "B2211T",
+      "B2405",
+      "B2405C",
+      "B4505T",
+      "B4505TC",
+      "B4603T",
+      "B4613T",
+      "B4655T",
+      "B500",
+      "B503",
+      "B510",
+      "B550",
+      "B550C",
+      "B552",
+      "B655T",
+      "B6713T",
+      "B6753T",
+      "B6755T",
+      "B6765",
+      "B730",
+      "B730C",
+      "B740",
+      "B750",
+      "B750T",
+      "B970",
+      "C2202",
+      "CG40",
+      "CG40CDM",
+      "CG42CDM",
+      "CR600",
+      "CR625EVO",
+      "CR655MYQ",
+      "CR675EVO",
+      "CR855MYQ",
+      "CS100EVO",
+      "CS105MYQ",
+      "CS110MYQ",
+      "CS60EVO",
+      "CSW200UL Series",
+      "D2101",
+      "D2405C",
+      "GPD60",
+      "GPD65",
+      "HandyLift Deluxe CR650EVO",
+      "HandyLift Plus 2.0",
+      "HC300-433",
+      "HD200D",
+      "HD200DM",
+      "HD210",
+      "HD210C",
+      "HD220",
+      "HD220C",
+      "HD400D",
+      "HD420EV",
+      "HD520EV",
+      "HD600",
+      "HD600DM",
+      "HD900D",
+      "HD920EV",
+      "HD930EV",
+      "HD950WF",
+      "LM200EVF",
+      "LM60XX",
+      "LM80XX",
+      "LW1000WF",
+      "LW2000",
+      "LW2200C",
+      "LW260C",
+      "LW3000",
+      "LW3000EV",
+      "LW3500",
+      "LW3500EV",
+      "LW5000EV",
+      "LW9000WF",
+      "M385",
+      "M385M",
+      "M75",
+      "Miracle-ONE",
+      "MJ - MH - HMJ",
+      "ML1000EV",
+      "ML2000",
+      "ML510EV",
+      "ML580EV",
+      "ML700EV",
+      "ML810EV",
+      "MLR500",
+      "MLR750",
+      "Motorlift 1000",
+      "MotorLift 2000",
+      "Motorlift 4000",
+      "Motorlift 5000",
+      "MotorLift 5500",
+      "Motorlift 700",
+      "MotorLift ML500",
+      "MotorLift ML510",
+      "MotorLift ML700",
+      "MotorLift ML750",
+      "MotorLift ML850",
+      "MSLDCBB3",
+      "MSWDCBB",
+      "PD210",
+      "PD212D",
+      "PD220",
+      "PD222",
+      "PD300",
+      "PD300D",
+      "PD510",
+      "PD512",
+      "PD610D",
+      "PD612D",
+      "PD612EV",
+      "PD752KDS",
+      "PD752KEV",
+      "PD758DS",
+      "PD758KDS",
+      "Power Drive 182638DM",
+      "Pro 9000",
+      "RJO70",
+      "Robo Swing R900",
+      "Sentex Crown Jewel",
+      "The Robo Slide",
+      "TPD10-05",
+      "WD1000WF",
+      "WD822KD",
+      "WD822KLS",
+      "WD822KS",
+      "WD832KD",
+      "WD832KEV",
+      "WD832KEVC",
+      "WD832KEVG",
+      "WD962EV",
+      "WD962KCD",
+      "WD962KEV",
+      "WD962KPEV",
+      "WD962MLEV",
+      "Whisper Drive 248739",
+      "Whisper Drive 248739M",
+      "Whisper Drive 248754",
+      "Whisper Drive 459950",
+      "Whisper Drive 547445",
+      "Whisper Drive 8200",
+      "Whisper Drive 9200",
+      "Whisper Drive 940CD",
+      "Whisper Drive HD600",
+      "Whisper Drive HD600D",
+      "Whisper Drive HD800D",
+      "Whisper Drive HD900D",
+      "Whisper Drive Plus",
+      "Whisper Drive WD822K",
+      "Whisperdrive WD832KD"
+    ]
+  },
+  {
+    "manufacturer": "CLEMSA",
+    "models": [
+      "Clas 16",
+      "Clas 16.1"
+    ]
+  },
+  {
+    "manufacturer": "Clever",
+    "models": [
+      "Clever II"
+    ]
+  },
+  {
+    "manufacturer": "CO-Z",
+    "models": [
+      "CO-Z kit"
+    ]
+  },
+  {
+    "manufacturer": "Comfort",
+    "models": [
+      "260",
+      "270",
+      "280"
+    ]
+  },
+  {
+    "manufacturer": "Commax",
+    "models": [
+      "DP-2HP"
+    ]
+  },
+  {
+    "manufacturer": "Comunello",
+    "models": [
+      "CU-230V-1M control board",
+      "CU-230V-2M",
+      "CU-230V-HP control board",
+      "CU-24V-1M control board",
+      "CU-24V-HP control board",
+      "CU-24V-RT"
+    ]
+  },
+  {
+    "manufacturer": "Conqueror",
+    "models": [
+      "FBC200"
+    ]
+  },
+  {
+    "manufacturer": "CRAFTSMAN",
+    "models": [
+      "13953918D",
+      "139-53985",
+      "139.18076",
+      "139.18086",
+      "139.18096",
+      "139.18310D",
+      "139.18451DM",
+      "139.18452DM",
+      "139.18453DM",
+      "139.18455D",
+      "139.18458D",
+      "139.18473DM",
+      "139.18490DM",
+      "139.18570D",
+      "139.18585D",
+      "139.18586D",
+      "139.18675",
+      "139.18676",
+      "139.18686",
+      "139.18696",
+      "139.18803",
+      "139.18805",
+      "139.18814",
+      "139.18830",
+      "139.18850",
+      "139.18851",
+      "139.18865",
+      "139.18866",
+      "139.18875",
+      "139.18876",
+      "139.18975",
+      "139.30437",
+      "139.53515SR",
+      "139.53626SR",
+      "139.53638SRT",
+      "139.53644SRT",
+      "139.53647SRT1",
+      "139.53661SRT3",
+      "139.53662SRT",
+      "139.53663SRT2",
+      "139.53671SRT3",
+      "139.53672SRT3",
+      "139.53673SRT3",
+      "139.53674SRT2",
+      "139.53675SRT",
+      "139.53677SRT3",
+      "139.53681B",
+      "139.53910",
+      "139.53910D",
+      "139.53914",
+      "139.53914D",
+      "139.53916D",
+      "139.53918D",
+      "139.53919D",
+      "139.53920D",
+      "139.53924",
+      "139.53927",
+      "139.53930D",
+      "139.53930DM",
+      "139.53954",
+      "139.53960SRT",
+      "139.53961",
+      "139.53961SRT",
+      "139.53962SRT1",
+      "139.53963SRT",
+      "139.53964SRT",
+      "139.53970SRT",
+      "139.53971SRT",
+      "139.53973SRT",
+      "139.53974",
+      "139.53975SRT1",
+      "139.53985",
+      "139.5398511",
+      "139.53985D",
+      "139.53985DM",
+      "139.53990",
+      "139.53990D",
+      "139.53990DS",
+      "139.53990SRT",
+      "139.53992",
+      "139.53992D",
+      "139.53997D",
+      "139.54915",
+      "139.54918",
+      "139.54931",
+      "139.54985",
+      "139.54990",
+      "139.55918",
+      "139.653000",
+      "13918054",
+      "13918056",
+      "13918058",
+      "13918059",
+      "13918060",
+      "13918405D",
+      "13918451D",
+      "13918452D",
+      "13918453D",
+      "13918458DM",
+      "13918470D",
+      "13918473D",
+      "13918489D",
+      "13918555",
+      "13918654",
+      "13918656",
+      "13918658",
+      "13918659",
+      "13918660",
+      "13918673",
+      "13918674",
+      "13918887",
+      "13918897",
+      "13918973",
+      "13918974",
+      "13953315SR",
+      "13953335SRT3",
+      "13953415SR",
+      "13953525SRT",
+      "13953535SRT1",
+      "1395353834SRT3",
+      "13953615SR",
+      "13953627SRT",
+      "13953628SRT",
+      "13953636SRT",
+      "13953640SRT",
+      "13953641SRT",
+      "13953644SRT",
+      "13953645SRT3",
+      "13953646SRT2",
+      "13953647SRT1",
+      "1395364812",
+      "13953648SRT2",
+      "13953650SRT",
+      "13953660SRT1",
+      "13953661SRT3",
+      "13953662SRT2",
+      "13953670SRT1",
+      "13953671SRT3",
+      "13953672SRT3",
+      "13953673SRT3",
+      "13953674SRT3",
+      "13953675SRT2",
+      "13953677SRT3",
+      "13953699SR",
+      "13953834SRT3",
+      "13953901DM",
+      "13953903DM",
+      "13953905DM",
+      "13953915D",
+      "13953916D",
+      "13953918D",
+      "13953930D",
+      "13953930DM",
+      "13953961",
+      "13953961SRT",
+      "13953962SRT",
+      "13953962SRT1",
+      "13953963SRT",
+      "13953964SRT",
+      "13953974",
+      "13953974SRT",
+      "13953975SRT",
+      "13953975SRT1",
+      "13953976",
+      "13953976SRT",
+      "13953977SRT",
+      "13953978",
+      "13953978SRT",
+      "13953978SRT1",
+      "13953982SRT",
+      "1395398511",
+      "13953985DM",
+      "13953990D",
+      "13953993D",
+      "13953995SRT",
+      "13954930",
+      "20057933",
+      "75th Anniversary -Model 139.53991-"
+    ]
+  },
+  {
+    "manufacturer": "CRAWFORD",
+    "models": [
+      "ECS 930A",
+      "ECS 940A",
+      "ECS 950",
+      "Magic 1000",
+      "Magic 600",
+      "ULTRA"
+    ]
+  },
+  {
+    "manufacturer": "Crawford",
+    "models": [
+      "Ultra Excellent",
+      "Ultra S"
+    ]
+  },
+  {
+    "manufacturer": "CSI Classic",
+    "models": [
+      "Pro Series"
+    ]
+  },
+  {
+    "manufacturer": "Cumu",
+    "models": [
+      "CMD-330"
+    ]
+  },
+  {
+    "manufacturer": "DACE",
+    "models": [
+      "DuraSlide 500 Series",
+      "LAZER",
+      "Ultima HT18/36",
+      "Ultima RT25/50"
+    ]
+  },
+  {
+    "manufacturer": "DALMATIC",
+    "models": [
+      "MINI STD. V7E OPERATOR"
+    ]
+  },
+  {
+    "manufacturer": "DASPI",
+    "models": [
+      "DS508",
+      "MAX",
+      "PASSAGE 1000 BELT DS502",
+      "PASSAGE 1000 CHAIN ​​DS503"
+    ]
+  },
+  {
+    "manufacturer": "Davidsen",
+    "models": [
+      "Portautomatik N600-2400"
+    ]
+  },
+  {
+    "manufacturer": "DC MOTO",
+    "models": [
+      "GFM925AL"
+    ]
+  },
+  {
+    "manufacturer": "DEA",
+    "models": [
+      "203B_2",
+      "203RR-Control Panel-",
+      "212E-Control Panel-",
+      "224RR -Control Panel-",
+      "EXPO 210",
+      "GEKO",
+      "Gulliver",
+      "LIVI Gate",
+      "NET230N -Control Panel-",
+      "NET24N",
+      "Space",
+      "Spazio 702/703",
+      "TEO 700"
+    ]
+  },
+  {
+    "manufacturer": "DIAMOND DOORS",
+    "models": [
+      "Bi-fold DD30S21"
+    ]
+  },
+  {
+    "manufacturer": "DIMOEL",
+    "models": [
+      "CK800",
+      "Corredera 400",
+      "DIMO 700",
+      "Kit NewROTOR"
+    ]
+  },
+  {
+    "manufacturer": "Diplomat",
+    "models": [
+      "CD550"
+    ]
+  },
+  {
+    "manufacturer": "DITEC",
+    "models": [
+      "CROSS3E",
+      "CS12E (for NEOS)",
+      "CS12M (for NEOS)",
+      "D2H",
+      "E1 (for 230V AC Motors)",
+      "E1A (for 230V AC Motors)",
+      "E1A (for CROSS)",
+      "E1A (for Dod)",
+      "E1HBOX",
+      "E1T (for CROSS 30)",
+      "E1T (for Dod)",
+      "E2 (for CUBIC)",
+      "E2H Control Board",
+      "EL31R (for Qik)",
+      "EL34 (for Qik)",
+      "Entrematic E1T (for 400V Motors)",
+      "Entrematic E2 (for 230V AC Motors)",
+      "GLOBE",
+      "ION",
+      "LCU30H (for 24V DC Motors)",
+      "LCU30H (for ARC)",
+      "LCU30H (for Facil)",
+      "LCU30H (for PWR)",
+      "LCU40H (for 24V DC Motors)",
+      "LCU40H (for ARC)",
+      "LCU40H (for CUBIC)",
+      "LCU40H (for Dor)",
+      "LCU40H (for Facil)",
+      "LCU40H (for PWR)",
+      "LOGIC M (for CROSS)",
+      "LOGIC M (for CUBIC)",
+      "LOGICM (for 230V AC Motors)",
+      "NEOS",
+      "NEOS+",
+      "obbi 3bh",
+      "TOP603H",
+      "TOP903H",
+      "VIVAH",
+      "VIVAHJ"
+    ]
+  },
+  {
+    "manufacturer": "DMIL",
+    "models": [
+      "EVOLUTION"
+    ]
+  },
+  {
+    "manufacturer": "Dominator",
+    "models": [
+      "Advance",
+      "DSO-2",
+      "EasyRoller 14",
+      "GDO 10V3L2",
+      "GDO-11v1",
+      "GDO-7v2",
+      "GDO11v3",
+      "RDO-1V4 EXCEL"
+    ]
+  },
+  {
+    "manufacturer": "Doorgate",
+    "models": [
+      "ROOF 600"
+    ]
+  },
+  {
+    "manufacturer": "DOORHAN",
+    "models": [
+      "1000PRO",
+      "800PRO",
+      "SE-500",
+      "SE-500PRO",
+      "SE-DIY-500",
+      "Sectional-1200",
+      "Sectional-750",
+      "Sliding 300",
+      "Sliding 800"
+    ]
+  },
+  {
+    "manufacturer": "DoorKing",
+    "models": [
+      "1150",
+      "1503",
+      "1504",
+      "1601",
+      "1602",
+      "1802 Access Plus",
+      "1808 Access Plus",
+      "1810 Access Plus",
+      "1812 ACCESS PLUS",
+      "1812 Classic",
+      "4702 Control board",
+      "605",
+      "610",
+      "6524",
+      "9024",
+      "9050",
+      "9100",
+      "9150",
+      "9200 (Series)",
+      "CONTROL BOX: 6002-6003-6400",
+      "DK4502",
+      "DKS 4702",
+      "DKS 6050",
+      "DKS 6100",
+      "DKS 6300",
+      "DKS 6500",
+      "DKS 9050",
+      "DKS 9150",
+      "DKS 9310"
+    ]
+  },
+  {
+    "manufacturer": "DoorTEC",
+    "models": [
+      "DoorMAN SDO1"
+    ]
+  },
+  {
+    "manufacturer": "Doorworks",
+    "models": [
+      "1200N",
+      "800N",
+      "GDC12",
+      "GDC6",
+      "GDC8",
+      "RD2"
+    ]
+  },
+  {
+    "manufacturer": "DORENE",
+    "models": [
+      "DR 3020",
+      "DR 3020HX",
+      "DRT 3520"
+    ]
+  },
+  {
+    "manufacturer": "DorGo",
+    "models": [
+      "800"
+    ]
+  },
+  {
+    "manufacturer": "DOWNEE",
+    "models": [
+      "NET230N"
+    ]
+  },
+  {
+    "manufacturer": "DTS",
+    "models": [
+      "DTS 600",
+      "DTS 800"
+    ]
+  },
+  {
+    "manufacturer": "Ducati",
+    "models": [
+      "CTH42 Control Board",
+      "EVO 700",
+      "EVO 700FC",
+      "EVO 700T",
+      "HC619 Solar",
+      "HC812-300",
+      "SW 3000",
+      "SW7000T"
+    ]
+  },
+  {
+    "manufacturer": "E-KING",
+    "models": [
+      "700",
+      "BV KSC"
+    ]
+  },
+  {
+    "manufacturer": "E.T. SYSTEMS",
+    "models": [
+      "DC BLUE ADVANCED",
+      "DC Blue Advanced pico",
+      "DC Blue Digital",
+      "Drive 500",
+      "ET500 12V",
+      "ET500 ACDC"
+    ]
+  },
+  {
+    "manufacturer": "E8",
+    "models": [
+      "E8-300"
+    ]
+  },
+  {
+    "manufacturer": "EAGLE",
+    "models": [
+      "100 Series",
+      "1000",
+      "200 Series",
+      "2000",
+      "E7",
+      "Eagle II",
+      "Eagle-1"
+    ]
+  },
+  {
+    "manufacturer": "Easygate",
+    "models": [
+      "Terrier Swing Gate"
+    ]
+  },
+  {
+    "manufacturer": "EASYIN",
+    "models": [
+      "110 ES",
+      "60 ES",
+      "90 ES"
+    ]
+  },
+  {
+    "manufacturer": "Eco Garage Doors",
+    "models": [
+      "FS1000",
+      "FS600",
+      "FS800"
+    ]
+  },
+  {
+    "manufacturer": "EDLANDSPORTEN",
+    "models": [
+      "260"
+    ]
+  },
+  {
+    "manufacturer": "EGUARD",
+    "models": [
+      "DSN-148"
+    ]
+  },
+  {
+    "manufacturer": "ELBE",
+    "models": [
+      "909A",
+      "909B"
+    ]
+  },
+  {
+    "manufacturer": "ELITE",
+    "models": [
+      "ACTUATOR-1",
+      "CSW-200 Series",
+      "CSW-200-UL Series",
+      "Miracle 1 - MS",
+      "Roboslide",
+      "SL 3000",
+      "SL-3000-UL"
+    ]
+  },
+  {
+    "manufacturer": "ELKA",
+    "models": [
+      "EST 204",
+      "EST 404",
+      "EST 804"
+    ]
+  },
+  {
+    "manufacturer": "ELLARD",
+    "models": [
+      "Athena",
+      "Genesis",
+      "Pegasus"
+    ]
+  },
+  {
+    "manufacturer": "ELSEMA",
+    "models": [
+      "Eclipse MC"
+    ]
+  },
+  {
+    "manufacturer": "EntranceDynamics",
+    "models": [
+      "EDSL450"
+    ]
+  },
+  {
+    "manufacturer": "Entrematic",
+    "models": [
+      "230V AC Motors (E1)",
+      "230v AC Motors (E1A)",
+      "230V AC Motors (Entrematic E2)",
+      "230V AC Motors (LOGICM)",
+      "24V DC Motors (LCU30H)",
+      "24V DC Motors (LCU40H)",
+      "400V Motors (Entrematic E1T)",
+      "Akku Plus",
+      "ARC (LCU30H)",
+      "ARC (LCU40H)",
+      "CROSS (E1A)",
+      "CROSS (LOGICM)",
+      "CROSS 30 (E1T)",
+      "CROSS 3E",
+      "CUBIC (E2)",
+      "CUBIC (LCU40H)",
+      "CUBIC (LOGICM)",
+      "D2H",
+      "Dod (E1A)",
+      "Dod (E1T)",
+      "Dor (LCU40H)",
+      "E1HBOX",
+      "E2H Control Board",
+      "Elegance 2500 (Control X50)",
+      "Elegance 2500 (Control X51)",
+      "Elegance 4000 (Control X50)",
+      "Elegance 4000 (Control X51)",
+      "Elegant 200",
+      "Elegant 400 (Control VD003)",
+      "EVO 400",
+      "EVO 600",
+      "EVO 800",
+      "Facil (LCU30H)",
+      "Facil (LCU40H)",
+      "GLOBE",
+      "IDO7/C700",
+      "ION",
+      "LEVO 3000",
+      "LEVO 4000",
+      "MAGIC 1000",
+      "MAGIC 600",
+      "Mono",
+      "NEOS (CS12E)",
+      "NEOS (CS12M)",
+      "NEOS+ (CS12E)",
+      "NEOS+ (CS12M)",
+      "Noblese 400 (Control X80)",
+      "Noblese 400 (Control X81)",
+      "Noblese 800 (Control X80)",
+      "Noblese 800 (Control X81)",
+      "obbi 3bh",
+      "Perfekt",
+      "PWR (LCU30H)",
+      "PWR (LCU40H)",
+      "Qik (EL31R)",
+      "Qik (EL34)",
+      "TOP603H",
+      "TOP903H",
+      "ULTRA",
+      "ULTRA Excellent",
+      "Ultra S",
+      "Universal 400",
+      "VIVAH",
+      "VIVAHJ",
+      "WS 1000 (control VD003)",
+      "WS 350 (control VD003)",
+      "WS 600 (control VD003)"
+    ]
+  },
+  {
+    "manufacturer": "ERREKA",
+    "models": [
+      "KAIROS",
+      "KM400",
+      "LINCE",
+      "NAOS",
+      "PUMA",
+      "RINO"
+    ]
+  },
+  {
+    "manufacturer": "ESTATE SWING",
+    "models": [
+      "E-S 1000H",
+      "E-S 1100",
+      "E-S 1102",
+      "E-S 1600",
+      "E-S 1602"
+    ]
+  },
+  {
+    "manufacturer": "ETDOOR",
+    "models": [
+      "ET-1000E",
+      "ET-12",
+      "ET-28",
+      "ET-30",
+      "ET-600E",
+      "ET-800E",
+      "ET-S500",
+      "ET-S800",
+      "ET1000",
+      "ET1200",
+      "ET600",
+      "ET800"
+    ]
+  },
+  {
+    "manufacturer": "Eurodoor",
+    "models": [
+      "ED 1000",
+      "Proline 800A-6TH"
+    ]
+  },
+  {
+    "manufacturer": "Eurodrive",
+    "models": [
+      "Eurokit"
+    ]
+  },
+  {
+    "manufacturer": "EUROMATIC",
+    "models": [
+      "LEVER 400",
+      "Control Board IDEA B-R"
+    ]
+  },
+  {
+    "manufacturer": "EVOLOGY",
+    "models": [
+      "EVOSLIDE 5000"
+    ]
+  },
+  {
+    "manufacturer": "EXTEL",
+    "models": [
+      "FIDJI"
+    ]
+  },
+  {
+    "manufacturer": "FAAC",
+    "models": [
+      "390",
+      "391",
+      "400",
+      "400MP Control Unit",
+      "401MP",
+      "402 CBC",
+      "402 SBS",
+      "412",
+      "414P",
+      "415",
+      "450MPS",
+      "455D",
+      "550",
+      "576 EM",
+      "624BLD",
+      "740",
+      "741",
+      "746",
+      "746 ER",
+      "770N",
+      "780D",
+      "844",
+      "844 ER",
+      "844 R",
+      "844 R CAT",
+      "844 R RT",
+      "884",
+      "C720",
+      "C721",
+      "C851",
+      "D1000",
+      "D600",
+      "E024S",
+      "E024U",
+      "E045 Control Board",
+      "E124",
+      "E145",
+      "E600",
+      "E721",
+      "FAAC 391",
+      "FSL700",
+      "JA592",
+      "S418",
+      "S800H (E024U Control Unit)",
+      "XF 868"
+    ]
+  },
+  {
+    "manufacturer": "FADINI",
+    "models": [
+      "Aproli 480",
+      "Bart 350",
+      "COMBI 740",
+      "Dardo 424",
+      "ELPRO 10",
+      "ELPRO 13",
+      "ELPRO 27",
+      "ELPRO 33",
+      "Hindi880",
+      "Junior 624",
+      "Junior 633",
+      "Junior 650",
+      "Nupi 66"
+    ]
+  },
+  {
+    "manufacturer": "FAS",
+    "models": [
+      "SLIDECH300BBUP"
+    ]
+  },
+  {
+    "manufacturer": "Force",
+    "models": [
+      "FS 1000-Speed (1000N)",
+      "FS 1200 (1200N)",
+      "FS 600 (600N)",
+      "FS 600-Speed (600N)",
+      "fs1000"
+    ]
+  },
+  {
+    "manufacturer": "FOREMATIC",
+    "models": [
+      "F350",
+      "F360",
+      "GTA 611",
+      "GTA 612"
+    ]
+  },
+  {
+    "manufacturer": "FORESSE",
+    "models": [
+      "F-350G",
+      "F-350M",
+      "F-500B",
+      "F-550",
+      "F-560",
+      "F-600"
+    ]
+  },
+  {
+    "manufacturer": "FORZA",
+    "models": [
+      "1000",
+      "1200",
+      "CMB",
+      "CMB-12",
+      "CMB-12P",
+      "CMB-P"
+    ]
+  },
+  {
+    "manufacturer": "G.T.Master",
+    "models": [
+      "GT1100DC",
+      "GT1100DC-J",
+      "GT1800DC"
+    ]
+  },
+  {
+    "manufacturer": "Garador",
+    "models": [
+      "GaraMatic 10",
+      "GaraMatic 20",
+      "GaraMatic 7",
+      "GaraMatic 9",
+      "GDO-11v1",
+      "GDO-11v3",
+      "GTS-1",
+      "GTS-2V3",
+      "GTS-3V3",
+      "GTS-4V3",
+      "SDO-1v2 GD"
+    ]
+  },
+  {
+    "manufacturer": "GARAGA",
+    "models": [
+      "CarGO 500e",
+      "CarGO 700e"
+    ]
+  },
+  {
+    "manufacturer": "GARDALE",
+    "models": [
+      "DC-650n"
+    ]
+  },
+  {
+    "manufacturer": "GAREN",
+    "models": [
+      "Central G3",
+      "WAVE"
+    ]
+  },
+  {
+    "manufacturer": "GATEKEEPER",
+    "models": [
+      "YG-5602"
+    ]
+  },
+  {
+    "manufacturer": "GateMaster",
+    "models": [
+      "900HD"
+    ]
+  },
+  {
+    "manufacturer": "GATEXPERT",
+    "models": [
+      "AT1350",
+      "DKC500ACL",
+      "DKC800ACL",
+      "PY600-B"
+    ]
+  },
+  {
+    "manufacturer": "GATOLIFT",
+    "models": [
+      "SM600"
+    ]
+  },
+  {
+    "manufacturer": "GDS",
+    "models": [
+      "450 LI",
+      "630 LI Range",
+      "800"
+    ]
+  },
+  {
+    "manufacturer": "GELB",
+    "models": [
+      "ECU-1M03"
+    ]
+  },
+  {
+    "manufacturer": "GEMINI Automation Systems",
+    "models": [
+      "DC Swing Master",
+      "Slider Complex 24V SEL",
+      "Slider – 12AH",
+      "Slider – 24V 5AH",
+      "Slider – 7AH"
+    ]
+  },
+  {
+    "manufacturer": "Generic 3 Button Commercial Door",
+    "models": [
+      "3 Button Commercial Door"
+    ]
+  },
+  {
+    "manufacturer": "GENESIS",
+    "models": [
+      "3055",
+      "725",
+      "750",
+      "777"
+    ]
+  },
+  {
+    "manufacturer": "GENIE",
+    "models": [
+      "6070",
+      "Aladdin",
+      "BELT DRIVE",
+      "CB1000",
+      "CB1200",
+      "Chain Drive 500",
+      "Chain Drive 800",
+      "ChainLift 500",
+      "Chainmax 1000",
+      "CM7500",
+      "CM8500",
+      "CM8600",
+      "EXCELERATOR",
+      "GCG Series",
+      "GCL-GH",
+      "GPower 900",
+      "GPS-IC Series",
+      "H series",
+      "IntelliG 1000",
+      "IntelliG 1200",
+      "IS850",
+      "ISD 1000",
+      "ISD990",
+      "MODEL 1022",
+      "MODEL 1024",
+      "MODEL 1028",
+      "MODEL 1035",
+      "MODEL 1042",
+      "MODEL 2020L",
+      "MODEL 2022",
+      "MODEL 2024",
+      "MODEL 2028",
+      "MODEL 2033",
+      "MODEL 2035",
+      "MODEL 2036",
+      "MODEL 2040C",
+      "MODEL 2040L",
+      "MODEL 2042",
+      "MODEL 2053",
+      "MODEL 2055",
+      "MODEL 2060",
+      "Model 2128",
+      "Model 2560",
+      "MODEL 2562",
+      "MODEL 2568",
+      "MODEL 3022",
+      "MODEL 3024",
+      "MODEL 3033",
+      "MODEL 3035",
+      "MODEL 3042",
+      "MODEL 3053",
+      "MODEL 3055",
+      "MODEL 3060",
+      "MODEL 3062",
+      "MODEL 3064",
+      "Model 3120",
+      "MODEL 3560",
+      "MODEL 4024",
+      "MODEL 4042",
+      "MODEL 4062",
+      "MODEL 4063",
+      "MODEL 4064",
+      "MODEL 5042",
+      "MODEL 6072",
+      "MODEL 7033",
+      "MODEL 7035",
+      "MODEL 7053",
+      "MODEL 7055",
+      "MODEL CB1200",
+      "MODEL SC1200",
+      "PCG Series",
+      "PCG650",
+      "PCG700ML - Chainglide",
+      "PMX-IC B Series",
+      "PowerLift 900",
+      "PowerMax 1200",
+      "PowerMax 1500",
+      "Pro 800",
+      "PRO 88",
+      "PRO 90",
+      "PRO 98",
+      "PRO MAX",
+      "PRO MAX 2",
+      "Pro Max PMX75",
+      "PRO STEALTH",
+      "QuietLift 800",
+      "ReliaG 650",
+      "ReliaG 850",
+      "SC1200",
+      "SC1500",
+      "Screw Drive",
+      "SD8000",
+      "SD9000",
+      "SD9500",
+      "Series G",
+      "Series GX",
+      "Series GXL",
+      "Series H",
+      "Series IC",
+      "Series IS",
+      "Series ISL",
+      "SilentMax 1000",
+      "SilentMax 1200",
+      "SilentMax 750",
+      "TriloG 1200",
+      "TriloG 1500"
+    ]
+  },
+  {
+    "manufacturer": "GENIUS",
+    "models": [
+      "7pcbrcu1-05",
+      "Blizzard 500C",
+      "Brain 03",
+      "Brain 04",
+      "Brain 15",
+      "Brain 17",
+      "Brain 592",
+      "Brainy 18",
+      "Brian 574",
+      "Diablo",
+      "JA574",
+      "JA592",
+      "SPRINT 05",
+      "SPRINT 05 SW",
+      "Sprint 11 SW",
+      "Trigon 02",
+      "Trigon 02-24"
+    ]
+  },
+  {
+    "manufacturer": "GFA",
+    "models": [
+      "TS 970",
+      "TS 971",
+      "TS956"
+    ]
+  },
+  {
+    "manufacturer": "GHOST CONTROLS",
+    "models": [
+      "CKSP-XP",
+      "Coop Controls",
+      "DEP2 kit",
+      "DTP1",
+      "HDP1",
+      "HDP2",
+      "LDM2",
+      "LSM1",
+      "TDS2",
+      "TDS2XP",
+      "TSS1",
+      "TSS1XP"
+    ]
+  },
+  {
+    "manufacturer": "Giant",
+    "models": [
+      "EGB-02"
+    ]
+  },
+  {
+    "manufacturer": "GiBiDi",
+    "models": [
+      "F4 Plus",
+      "PASS 1200",
+      "PASS 1800",
+      "PASS 2500",
+      "PASS 600",
+      "PASS 600 REGO",
+      "PASS 800",
+      "Plus 2 (Control Panel)"
+    ]
+  },
+  {
+    "manufacturer": "GLIDEROL",
+    "models": [
+      "Genesis",
+      "Genesis Optima",
+      "Glidermatic GRD",
+      "Glidermatic GRD+",
+      "Glidermatic GTS",
+      "Glidermatic GTS+",
+      "GTS 2000 (2000-2007)"
+    ]
+  },
+  {
+    "manufacturer": "Grand-O-Matic",
+    "models": [
+      "GM1000",
+      "GM1200",
+      "GM800"
+    ]
+  },
+  {
+    "manufacturer": "Grifco",
+    "models": [
+      "eDrive +2.0",
+      "GLD-RDO",
+      "LG-DRIVE",
+      "LR-Drive"
+    ]
+  },
+  {
+    "manufacturer": "GSM",
+    "models": [
+      "I-Gate 20"
+    ]
+  },
+  {
+    "manufacturer": "GTO",
+    "models": [
+      "1500",
+      "25 code Digital Keypad",
+      "3000",
+      "GP-SW050",
+      "GTO 3000XLS",
+      "GTO 3200XLS",
+      "GTO PRO 2000XL",
+      "GTO PRO 2500",
+      "GTO PRO SW-2000XLS",
+      "PRO 1000",
+      "PRO 2000",
+      "PRO 2002XL",
+      "PRO 3000",
+      "PRO 3000XL",
+      "PRO SW3200",
+      "SL-1000",
+      "SL-2000",
+      "SW4000XLS"
+    ]
+  },
+  {
+    "manufacturer": "GUARDIAN",
+    "models": [
+      "21230L",
+      "2211-D",
+      "415",
+      "600SL",
+      "615",
+      "628",
+      "DCR2"
+    ]
+  },
+  {
+    "manufacturer": "HBopeners",
+    "models": [
+      "Easyswing",
+      "HBJR Serie",
+      "OmniSwing 250"
+    ]
+  },
+  {
+    "manufacturer": "Heras",
+    "models": [
+      "HGD230",
+      "HMD230",
+      "IGD230"
+    ]
+  },
+  {
+    "manufacturer": "Herculift",
+    "models": [
+      "1000N",
+      "SDO V8"
+    ]
+  },
+  {
+    "manufacturer": "Hi-view",
+    "models": [
+      "HV-1000"
+    ]
+  },
+  {
+    "manufacturer": "High-Line",
+    "models": [
+      "10",
+      "15"
+    ]
+  },
+  {
+    "manufacturer": "HomEntry",
+    "models": [
+      "He60as",
+      "HE60R",
+      "Herdo1",
+      "HESDO1"
+    ]
+  },
+  {
+    "manufacturer": "Hormann",
+    "models": [
+      "B460 FU",
+      "A435",
+      "A445",
+      "B435",
+      "B445",
+      "EcoMatic",
+      "Ecostar B",
+      "Ecostar C",
+      "GTD 50",
+      "GTO 90",
+      "GTS 40",
+      "LIFTRONIC 500",
+      "LIFTRONIC 700",
+      "LIFTRONIC 800",
+      "LineaMatic",
+      "LineaMatic 2",
+      "Prolift 700",
+      "Promatic",
+      "Promatic 2",
+      "Promatic 3",
+      "Promatic 4",
+      "RollMatic",
+      "Rotamatic (Double Swing)",
+      "Rotamatic (One Door)",
+      "SilentDrive",
+      "SilentDrive 5500 Series",
+      "SilentDrive 7500 Series",
+      "SilentDrive 8500 Series",
+      "Supramatic",
+      "Supramatic 3",
+      "Supramatic E",
+      "Supramatic E P",
+      "Supramatic E2",
+      "Supramatic E3",
+      "Supramatic E4",
+      "Supramatic H",
+      "Supramatic P2",
+      "Supramatic P3",
+      "Supramatic P4",
+      "Supramatic S",
+      "Turbo 75"
+    ]
+  },
+  {
+    "manufacturer": "HySecurity",
+    "models": [
+      "DC-20",
+      "SlideDriver",
+      "SlideSmart DC 10F",
+      "SlideSmart DC 15",
+      "Slidesmart DC HD15F",
+      "Slidesmart DC HD30",
+      "SlideSmart DCS 10F",
+      "SlideSmart DCS 15"
+    ]
+  },
+  {
+    "manufacturer": "IsoMatic",
+    "models": [
+      "500"
+    ]
+  },
+  {
+    "manufacturer": "JANUS INTERNATIONAL",
+    "models": [
+      "Mini Pantheon",
+      "Pantheon"
+    ]
+  },
+  {
+    "manufacturer": "Jaytech",
+    "models": [
+      "1200 V4",
+      "CK1200",
+      "CK1500",
+      "RDO 1000"
+    ]
+  },
+  {
+    "manufacturer": "JCM",
+    "models": [
+      "Keeroll",
+      "MAIN-1EU",
+      "MAIN-2EU"
+    ]
+  },
+  {
+    "manufacturer": "Joytech",
+    "models": [
+      "PY300DC",
+      "PY600AC",
+      "SL500DC",
+      "SL600ACL"
+    ]
+  },
+  {
+    "manufacturer": "KENNER",
+    "models": [
+      "KNS 1500"
+    ]
+  },
+  {
+    "manufacturer": "KEY AUTOMATION",
+    "models": [
+      "14A",
+      "CT102",
+      "Halo",
+      "Star 300",
+      "Star 500",
+      "SUN",
+      "TURBO 4224",
+      "TURBO 50-80-160",
+      "VIPER"
+    ]
+  },
+  {
+    "manufacturer": "KIBY",
+    "models": [
+      "1000",
+      "600"
+    ]
+  },
+  {
+    "manufacturer": "KINGGATES",
+    "models": [
+      "Book",
+      "Dynamo",
+      "Elevo",
+      "Jet",
+      "Jet XL",
+      "Linear",
+      "OVO",
+      "Star 224",
+      "Star D124",
+      "STARG8 24"
+    ]
+  },
+  {
+    "manufacturer": "KLING",
+    "models": [
+      "1000N",
+      "600N"
+    ]
+  },
+  {
+    "manufacturer": "KRAFER",
+    "models": [
+      "Mentor 1200",
+      "Mentor 800"
+    ]
+  },
+  {
+    "manufacturer": "Krispol",
+    "models": [
+      "Comfort 220.2",
+      "Comfort 250.2",
+      "K06",
+      "K10"
+    ]
+  },
+  {
+    "manufacturer": "KRUZIK",
+    "models": [
+      "Doormax",
+      "FORCE DOOR"
+    ]
+  },
+  {
+    "manufacturer": "L-Door",
+    "models": [
+      "Efficiency 600"
+    ]
+  },
+  {
+    "manufacturer": "Lawrence Doors",
+    "models": [
+      "SGH Series"
+    ]
+  },
+  {
+    "manufacturer": "LEB Electronics",
+    "models": [
+      "CTR31",
+      "CTR58"
+    ]
+  },
+  {
+    "manufacturer": "Letron",
+    "models": [
+      "SW410",
+      "SW810"
+    ]
+  },
+  {
+    "manufacturer": "Life",
+    "models": [
+      "ARMOR"
+    ]
+  },
+  {
+    "manufacturer": "Life Home Integration",
+    "models": [
+      "RG1R DL",
+      "RG1R UNI DL"
+    ]
+  },
+  {
+    "manufacturer": "Liftaway",
+    "models": [
+      "LA-SDO1"
+    ]
+  },
+  {
+    "manufacturer": "LiftLogix",
+    "models": [
+      "5500"
+    ]
+  },
+  {
+    "manufacturer": "LiftMaster",
+    "models": [
+      "100",
+      "1000 (MB106 Board)",
+      "1000 (MB126 Board)",
+      "1000SDR",
+      "1040",
+      "1040-6",
+      "1040-9",
+      "1040SM",
+      "1045",
+      "1045-6",
+      "1045-9",
+      "1045JG",
+      "1046-6",
+      "1046-9",
+      "1050",
+      "1050-6",
+      "1050-9",
+      "1050SM",
+      "1055",
+      "1055-253",
+      "1055-6",
+      "1055-9",
+      "1056",
+      "1056-6",
+      "1056-9",
+      "1060",
+      "1060-253",
+      "1060-6",
+      "1060-9",
+      "1060JG",
+      "1140",
+      "1145",
+      "1146",
+      "1150",
+      "1155",
+      "1156",
+      "1160",
+      "1200 (MB106 Board)",
+      "1200 (MB126 Board)",
+      "1210EM FS2",
+      "1215EM FS2",
+      "1220EM FS2",
+      "1225EM FS2",
+      "1240",
+      "1245",
+      "1245-266",
+      "1246",
+      "1250",
+      "1250-266",
+      "1255",
+      "1255-166",
+      "1255-266",
+      "1256",
+      "1260",
+      "1260-166",
+      "1260-266",
+      "1260-298",
+      "1265",
+      "1265-267",
+      "1265LMC",
+      "1280LMC-R",
+      "1280R",
+      "1345",
+      "1345M",
+      "1346",
+      "1346M",
+      "1355",
+      "1355M",
+      "1356",
+      "1356M",
+      "200",
+      "2000SDR",
+      "215WD",
+      "2245",
+      "2245C",
+      "2255",
+      "2255-2",
+      "2255-2C",
+      "2255C",
+      "2265",
+      "2265-267",
+      "2280",
+      "2500",
+      "2575",
+      "2585",
+      "300",
+      "3110",
+      "312HM",
+      "312HMC",
+      "315WD",
+      "3220",
+      "3220-267",
+      "3240",
+      "3245",
+      "3245CM",
+      "3245M",
+      "3255",
+      "3255-2CM",
+      "3255-2M",
+      "3255CM",
+      "3255M",
+      "3265",
+      "3265-267",
+      "3265CM",
+      "3265CM-267",
+      "3270",
+      "3275C",
+      "3280",
+      "3280-267",
+      "3280CM",
+      "3280CM-267",
+      "3280M",
+      "3280M-267",
+      "3500",
+      "3500D",
+      "3575",
+      "3575-267D",
+      "3575CS",
+      "3575K",
+      "3585",
+      "3585-100",
+      "3585CS",
+      "3585S",
+      "3595S",
+      "365LM - 635LM receiver",
+      "3780",
+      "3800",
+      "3800P",
+      "3850",
+      "3850-267",
+      "3950",
+      "398LM",
+      "412HM",
+      "412HMC",
+      "41AB050-1",
+      "41AC050-1M",
+      "4410E",
+      "535-315LM Security+ Receiver",
+      "5580",
+      "6000 MONARCH",
+      "700 (MB106 Board)",
+      "700 (MB126 Board)",
+      "7675",
+      "78LM",
+      "800",
+      "8000 MONARCH",
+      "8010",
+      "8065",
+      "8075",
+      "8155",
+      "81550",
+      "8160",
+      "81600",
+      "81602",
+      "81640",
+      "8164W",
+      "8165",
+      "81650",
+      "8355",
+      "8355-267",
+      "8355W",
+      "8355W-267",
+      "8360W",
+      "8365-267",
+      "83650-267",
+      "8365W-267",
+      "84501",
+      "84505R",
+      "8500",
+      "850LM Receiver",
+      "8550",
+      "8550WL",
+      "8557",
+      "8587",
+      "87504-267",
+      "98022",
+      "ATS 2113X",
+      "ATS 211X",
+      "ATS211R",
+      "BMT5011",
+      "BMT5011U",
+      "CB1",
+      "CB11",
+      "CB124EV",
+      "CB24",
+      "CSL24U",
+      "CSL24UL",
+      "CSL24V",
+      "CSW200",
+      "CSW200101U",
+      "CSW200501U",
+      "CSW200UL",
+      "CSW24U",
+      "CSW24UL",
+      "ECO300K",
+      "ECO300KS",
+      "ECO400K",
+      "ECO400KS",
+      "Elite MIRACLE 1 (1998)",
+      "Formula I",
+      "Gate Model 844",
+      "H-501-L5",
+      "HBW0777",
+      "HBW7675",
+      "HCT501130",
+      "HMJ",
+      "HS670",
+      "J 5011L4",
+      "LA100",
+      "LA350",
+      "LA400-LA400S",
+      "LA400CONTDC",
+      "LA400CONTU",
+      "LA400DC",
+      "LA400DCS",
+      "LA400PKGU",
+      "LA400U",
+      "LA400UL",
+      "LA412",
+      "LA412-S",
+      "LA412DC",
+      "LA500",
+      "LA500-LA500S",
+      "LA5001PKGDC",
+      "LA500CONTU",
+      "LA500DC",
+      "LA500DCS",
+      "LG050113L",
+      "LG050113R",
+      "LM100",
+      "LM1000A",
+      "LM100EVF",
+      "LM100EVS",
+      "LM130EVF",
+      "LM130EVS",
+      "LM3800A",
+      "LM50",
+      "LM50EV",
+      "LM50k",
+      "LM55EVF",
+      "LM60",
+      "LM600A",
+      "LM60A",
+      "LM60AR-128",
+      "LM60EVF",
+      "LM60EVS",
+      "LM60K",
+      "LM60R-128",
+      "LM60R-GB",
+      "LM60XX",
+      "LM70EVK",
+      "LM80",
+      "LM800A",
+      "LM80AR-128",
+      "LM80EV",
+      "LM80EVF",
+      "LM80EVS",
+      "LM80XX",
+      "LM850EV",
+      "LM950EV",
+      "Logic 5.0",
+      "M3100M",
+      "M385M",
+      "MB206",
+      "MB226 Logic Control",
+      "MGJ5011U",
+      "MH",
+      "MH5011U",
+      "MHS5011U",
+      "Miracle ONE",
+      "MJ",
+      "MJ5011U",
+      "Model APT",
+      "Model GH",
+      "Model GT",
+      "Model H",
+      "Model HJ",
+      "Model J",
+      "Model Series 1200",
+      "Model Series 1300",
+      "Model T",
+      "Model T (Logic Control ver2)",
+      "MT5011",
+      "MT5011U",
+      "PD612S",
+      "PL750EV",
+      "Professional Model Series 1200",
+      "RSL12U",
+      "RSL12UL",
+      "RSL12V",
+      "RSL12VH",
+      "RSW12UL",
+      "RSW12VH",
+      "RWS12V",
+      "RWS12VH",
+      "SL1000",
+      "SL3000501U",
+      "SL3000UL",
+      "SL3000UL8",
+      "SL505",
+      "SL540",
+      "SL570",
+      "SL575",
+      "SL580",
+      "SL585",
+      "SL585501U",
+      "SL590",
+      "SL595",
+      "SL595101UL",
+      "SL595103UL",
+      "SL595105UL",
+      "SL595151UL",
+      "SL595203UL",
+      "SL595205UL",
+      "SL600",
+      "SL930",
+      "SLY1000",
+      "SLY1000E",
+      "SLY1000K",
+      "SLY1800E",
+      "SLY1800K",
+      "SLY300",
+      "SLY300E",
+      "SLY300K",
+      "SLY500",
+      "SLY500E",
+      "SLY500K",
+      "SW420",
+      "SW470",
+      "SW490",
+      "SWG0370"
+    ]
+  },
+  {
+    "manufacturer": "LiftPro",
+    "models": [
+      "R1000",
+      "T1200"
+    ]
+  },
+  {
+    "manufacturer": "LimusOne",
+    "models": [
+      "G70",
+      "G80"
+    ]
+  },
+  {
+    "manufacturer": "Linear",
+    "models": [
+      "2000XLS",
+      "2002XLS",
+      "3000XLS",
+      "4000XLS",
+      "6000",
+      "6500",
+      "6500-P",
+      "AK-11",
+      "AP-4",
+      "AP-5",
+      "Delta-3",
+      "GPXSL25",
+      "HSLG",
+      "J6500",
+      "LCO75",
+      "LDCO800",
+      "LDCO801",
+      "LDO33",
+      "LDO50",
+      "LSO050",
+      "MD1612",
+      "Multi-Code (3-wire)",
+      "Multi-Code 1099-50",
+      "MVP",
+      "MVP-SQ",
+      "PDS 800",
+      "Pro Access 3000XLS",
+      "SLC",
+      "SLD",
+      "SLR",
+      "SWC",
+      "SWD",
+      "SWR",
+      "VS-GSLG"
+    ]
+  },
+  {
+    "manufacturer": "Link Controls",
+    "models": [
+      "AE0900",
+      "AE0900L"
+    ]
+  },
+  {
+    "manufacturer": "Lobas",
+    "models": [
+      "5580LB"
+    ]
+  },
+  {
+    "manufacturer": "LockMaster",
+    "models": [
+      "901/902",
+      "EKD 280",
+      "EKD 365",
+      "EKD 700M"
+    ]
+  },
+  {
+    "manufacturer": "Lynx",
+    "models": [
+      "455 Plus"
+    ]
+  },
+  {
+    "manufacturer": "MAC (Modular Automation Corporation)",
+    "models": [
+      "Tronic 55",
+      "Tronic 70"
+    ]
+  },
+  {
+    "manufacturer": "Manaras",
+    "models": [
+      "MSJ Opera",
+      "Opera-H",
+      "Opera-HJ",
+      "Opera-J",
+      "Opera-MH",
+      "Opera-MJ",
+      "Opera-MT",
+      "Opera-SH"
+    ]
+  },
+  {
+    "manufacturer": "Marantec",
+    "models": [
+      "CS 300",
+      "211",
+      "220",
+      "250",
+      "252",
+      "360",
+      "370",
+      "Comfort 100",
+      "Comfort 1000",
+      "Comfort 130",
+      "Comfort 150",
+      "Comfort 160",
+      "Comfort 211",
+      "Comfort 220",
+      "Comfort 220.2",
+      "Comfort 240",
+      "Comfort 250",
+      "Comfort 250.2",
+      "Comfort 250.2 speed",
+      "Comfort 252",
+      "Comfort 252.2",
+      "Comfort 260",
+      "Comfort 270",
+      "Comfort 280",
+      "Comfort 360",
+      "Comfort 370",
+      "Comfort 380",
+      "Comfort 500S",
+      "Comfort 60",
+      "Comfort 800",
+      "Comfort 880",
+      "Comfort 881",
+      "Control x.81",
+      "Control x.82",
+      "CS 320",
+      "Deluxe DL2005",
+      "Elite 2007",
+      "GDO 500(S or L)",
+      "GDO 700 (S or L)",
+      "M4500",
+      "M4500e",
+      "M4700",
+      "M4700e",
+      "M4900e",
+      "M50",
+      "M55",
+      "Q-7500",
+      "Q-7700",
+      "Q-7900",
+      "Synergy 260",
+      "Synergy 270",
+      "Synergy 280",
+      "Synergy 360",
+      "Synergy 370",
+      "Synergy 380",
+      "Synergy Solo"
+    ]
+  },
+  {
+    "manufacturer": "MARTIN",
+    "models": [
+      "DC2500",
+      "DC2500e",
+      "DC3700",
+      "DC3700e"
+    ]
+  },
+  {
+    "manufacturer": "Mastercraft",
+    "models": [
+      "046-0265-2",
+      "046-0266-0",
+      "046-0582-6"
+    ]
+  },
+  {
+    "manufacturer": "MAX - Maximum Controls-",
+    "models": [
+      "1400",
+      "1400HP",
+      "1700 FS PRO",
+      "2200",
+      "FAST",
+      "MAX F18",
+      "Super Arm 2300"
+    ]
+  },
+  {
+    "manufacturer": "MERIK",
+    "models": [
+      "200M",
+      "230 Plus",
+      "411M",
+      "711M",
+      "Merik 230 Plus",
+      "PC160 (Control Box)",
+      "PC170 (Control box)"
+    ]
+  },
+  {
+    "manufacturer": "MERLIN",
+    "models": [
+      "230T",
+      "CB22 Control Board",
+      "Commander Essential MS65MYQ",
+      "CyclonePro MT120 EVO",
+      "E8003 Receiver",
+      "G715D",
+      "M230T",
+      "M430R",
+      "MGS1000",
+      "MGS300",
+      "MGS500",
+      "MGSK600",
+      "MGSK600-LV",
+      "MJ3800",
+      "MJ3800MYQ",
+      "MR1000",
+      "MR550EVO",
+      "MR555MYQ",
+      "MR60",
+      "MR650",
+      "MR650EVO",
+      "MR655EVO",
+      "MR655MYQ",
+      "MR800",
+      "MR850",
+      "MR850EVO",
+      "MR855EVO",
+      "MR855MYQ",
+      "MRC950EVO",
+      "MS105MYQ",
+      "MS125MYQ",
+      "MS125MYQC25",
+      "MS125MYQX24",
+      "MS125MYQX30",
+      "MS65MYQ",
+      "MT1000",
+      "MT100EVO",
+      "MT110MYQ",
+      "MT230",
+      "MT3850EVO",
+      "MT5580P",
+      "MT60",
+      "MT600",
+      "MT60EVO",
+      "MT60P",
+      "MT800",
+      "PowerAce",
+      "Powerlift",
+      "Prolift 230T",
+      "Prolift 430R",
+      "Slide 600",
+      "Swing L 300 MGLX",
+      "XLR8"
+    ]
+  },
+  {
+    "manufacturer": "MFZ",
+    "models": [
+      "CS 300",
+      "CS310FU"
+    ]
+  },
+  {
+    "manufacturer": "Mhouse",
+    "models": [
+      "cl20sk",
+      "GD1",
+      "SL1 and SL10",
+      "WG10",
+      "WG2",
+      "WG20",
+      "WS200S",
+      "WS2S",
+      "WU2S"
+    ]
+  },
+  {
+    "manufacturer": "Micanan",
+    "models": [
+      "Pro LJ",
+      "Pro-APT",
+      "Pro-APTC",
+      "Pro-GH",
+      "Pro-GHC",
+      "Pro-GJ",
+      "Pro-GSD",
+      "Pro-GT",
+      "Pro-H",
+      "Pro-HHD",
+      "Pro-J",
+      "Pro-LH",
+      "Pro-LHA",
+      "Pro-LT",
+      "Pro-SD",
+      "Pro-T",
+      "Pro-TB"
+    ]
+  },
+  {
+    "manufacturer": "Mighty Mule",
+    "models": [
+      "200",
+      "350",
+      "362D",
+      "500",
+      "502",
+      "562",
+      "EZ Gates",
+      "FM145",
+      "FM200",
+      "FM402",
+      "FM502",
+      "GTO Pro 4000 XL",
+      "MM260",
+      "MM262",
+      "MM271",
+      "MM272",
+      "MM350",
+      "MM360",
+      "MM362",
+      "MM371W",
+      "MM372W",
+      "MM462",
+      "MM560",
+      "MM562",
+      "MM571W",
+      "MM572W",
+      "MM600",
+      "MM660",
+      "MMDIA30S",
+      "RCK660",
+      "RODEO GEAR",
+      "TS571W"
+    ]
+  },
+  {
+    "manufacturer": "Moore-o-Matic",
+    "models": [
+      "700",
+      "700-240",
+      "727",
+      "750",
+      "757",
+      "X125",
+      "X133",
+      "X150",
+      "Z133"
+    ]
+  },
+  {
+    "manufacturer": "Motorisation+",
+    "models": [
+      "SLD400LED"
+    ]
+  },
+  {
+    "manufacturer": "Motorline",
+    "models": [
+      "BRAVO 500 (MC1 control board)",
+      "BRAVO 500 (MC50SC control board)",
+      "Lince 300",
+      "Lince 400",
+      "Lince 600",
+      "MC1",
+      "MC102",
+      "MC2 control board",
+      "MC50BR",
+      "MC50SC",
+      "MC50SE",
+      "MC75",
+      "Rosso Evo",
+      "SLIDE 800A"
+    ]
+  },
+  {
+    "manufacturer": "Motostar",
+    "models": [
+      "Eclistar",
+      "linestar",
+      "Stylestar"
+    ]
+  },
+  {
+    "manufacturer": "Mtec",
+    "models": [
+      "UST 1K-KL"
+    ]
+  },
+  {
+    "manufacturer": "MultiCode",
+    "models": [
+      "1099",
+      "3090"
+    ]
+  },
+  {
+    "manufacturer": "Napoleon",
+    "models": [
+      "SD 800",
+      "SDO 800"
+    ]
+  },
+  {
+    "manufacturer": "Nassau",
+    "models": [
+      "NG 800"
+    ]
+  },
+  {
+    "manufacturer": "Neco",
+    "models": [
+      "MK1",
+      "Neco Garage Door"
+    ]
+  },
+  {
+    "manufacturer": "NewGate",
+    "models": [
+      "Panda 424",
+      "Panda 624",
+      "Panda 824I"
+    ]
+  },
+  {
+    "manufacturer": "Next System",
+    "models": [
+      "CTR17"
+    ]
+  },
+  {
+    "manufacturer": "Nice",
+    "models": [
+      "1500",
+      "936 Control Board",
+      "A01 MINDY",
+      "A400",
+      "A60 (Mindy)",
+      "Apollo 1050 (Control Board)",
+      "Apollo 1500",
+      "Apollo 1600",
+      "CL101",
+      "CL102",
+      "DC Blue Advanced",
+      "DC Blue Advanced pico",
+      "FILO 400",
+      "FILO 600",
+      "Hansa",
+      "Hoppkit",
+      "Hyke HK7024",
+      "Hyke HK7024 HS",
+      "Hyke HK7224",
+      "Hyke HK7224 HS",
+      "Maestro 200",
+      "MC200",
+      "MC424",
+      "MC800",
+      "MC824H",
+      "MCA1",
+      "Mercury 310",
+      "NKA3",
+      "NKSL400",
+      "POA1 (Control board)",
+      "POA3 (Control Board)",
+      "POP",
+      "PP7124",
+      "R01000",
+      "R01040",
+      "R01124",
+      "RB1000/1000P",
+      "RB250HS",
+      "RB400",
+      "RB500HS",
+      "RB500HS/V1",
+      "RB600/600P",
+      "RO1010",
+      "RO300",
+      "RO3004/V1",
+      "RO500",
+      "ROA38",
+      "ROAD 400",
+      "Robus 1000",
+      "Robus 1000P",
+      "Robus 600",
+      "Robus 600P",
+      "ROX 1000",
+      "ROX 1000 V1",
+      "ROX 600",
+      "RUN 1500",
+      "RUN 1800",
+      "RUN 1800P",
+      "RUN 2500",
+      "RUN 2500P",
+      "SLH400",
+      "Soon",
+      "Spido",
+      "Spido 6000",
+      "SPIN",
+      "Spin 23",
+      "Spin10KCE",
+      "Spin11KCE",
+      "SPY550",
+      "SPY650",
+      "SPY800",
+      "TITAL 912L",
+      "TITAN 12L1i",
+      "Toona 4005",
+      "Toona 4006",
+      "Toona 4015",
+      "Toona 4024",
+      "Toona 4605",
+      "Toona 5015",
+      "Toona 5016",
+      "Toona 5024",
+      "Toona 5024 HS",
+      "Toona 5024I",
+      "Toona 5605",
+      "Toona 6024 HS",
+      "Toona 7024",
+      "WALKY 1024",
+      "WALKY 1024C",
+      "Wingo 3524 HS",
+      "WS200S"
+    ]
+  },
+  {
+    "manufacturer": "NORMSTAHL",
+    "models": [
+      "Akku Plus",
+      "Elegance 2500 (Control X50)",
+      "Elegance 2500 (Control X51)",
+      "Elegance 4000 (Control X50)",
+      "Elegance 4000 (Control X51)",
+      "Elegant 200",
+      "Elegant 400 (Controller VD003)",
+      "EVO 400",
+      "EVO 600",
+      "EVO 800",
+      "LEVO 3000",
+      "LEVO 4000",
+      "Magic 1000",
+      "Magic 600",
+      "Mono",
+      "Noblese 400 (Control X80)",
+      "Noblese 400 (Control X81)",
+      "Noblese 800 (Control X80)",
+      "Noblese 800 (Control X81)",
+      "Perfekt",
+      "ULTRA",
+      "ULTRA EXCELLENT",
+      "Universal 400",
+      "WS 1000 (controller VD003)",
+      "WS 350 (controller VD003)",
+      "WS 600 (controller VD003)"
+    ]
+  },
+  {
+    "manufacturer": "Novoferm",
+    "models": [
+      "Black 1000",
+      "Black 600",
+      "Black 800",
+      "GTA 611",
+      "GTA 612",
+      "Novamatic 553",
+      "Novomatic 200",
+      "Novomatic 402",
+      "Novomatic 403",
+      "Novomatic 413",
+      "Novomatic 423",
+      "Novomatic 440",
+      "Novomatic 470",
+      "Novomatic 563",
+      "Novomatic ATE",
+      "NovoPort II",
+      "NovoPort III",
+      "NovoPort IV",
+      "NovoRol",
+      "Safe 800 III"
+    ]
+  },
+  {
+    "manufacturer": "NRG Automation",
+    "models": [
+      "Black Edition GDO"
+    ]
+  },
+  {
+    "manufacturer": "OEM",
+    "models": [
+      "CTR32"
+    ]
+  },
+  {
+    "manufacturer": "ON Automation",
+    "models": [
+      "CU2AE"
+    ]
+  },
+  {
+    "manufacturer": "Open Sesame Door Systems",
+    "models": [
+      "Model 133"
+    ]
+  },
+  {
+    "manufacturer": "OSCO",
+    "models": [
+      "MSG-A",
+      "MSG-D"
+    ]
+  },
+  {
+    "manufacturer": "OVERHEAD DOOR",
+    "models": [
+      "1000A",
+      "100A",
+      "2026",
+      "4060L",
+      "450A",
+      "456",
+      "496CD/B",
+      "556",
+      "656",
+      "65A",
+      "65B",
+      "CD & CDB series",
+      "Destiny 1200",
+      "Destiny 1500",
+      "GDO-11v3",
+      "INFINITY 2000",
+      "Legacy",
+      "Legacy 650",
+      "Legacy 800",
+      "Legacy 850",
+      "Legacy 920",
+      "Model 1026",
+      "Model 1029",
+      "Model 2029",
+      "Model 7020H",
+      "Model 7020H-B",
+      "Model 7120H",
+      "Model 7120H-B",
+      "OCG550",
+      "OCG600",
+      "OCG600ML",
+      "OCG750",
+      "OCG800",
+      "Odyssey 1000",
+      "Odyssey 1200",
+      "Phantom",
+      "ProMax PMX 75",
+      "ProMax PMX 85",
+      "Python",
+      "Python2",
+      "RSX",
+      "Signature 930",
+      "Signature 950"
+    ]
+  },
+  {
+    "manufacturer": "PADORS",
+    "models": [
+      "PDS-101",
+      "PDS-103"
+    ]
+  },
+  {
+    "manufacturer": "PECCININ",
+    "models": [
+      "CP 4000",
+      "CP2010",
+      "CP4030",
+      "CP5000",
+      "GATTER 3000",
+      "GATTER 3020"
+    ]
+  },
+  {
+    "manufacturer": "Platinum Access Systems",
+    "models": [
+      "BLS840",
+      "BLSL2250"
+    ]
+  },
+  {
+    "manufacturer": "POLARGOS",
+    "models": [
+      "EASY WAY 201",
+      "Easy Way 202"
+    ]
+  },
+  {
+    "manufacturer": "Polaris",
+    "models": [
+      "500",
+      "502",
+      "700",
+      "702"
+    ]
+  },
+  {
+    "manufacturer": "Power Master",
+    "models": [
+      "CSG",
+      "CSG (new Control Board)",
+      "CSWI",
+      "CSWI (new control Board)",
+      "H (new Control Board)",
+      "J (new Control Board)",
+      "MG",
+      "MG (new Control Board)",
+      "MSW",
+      "RSG",
+      "SG (new Control Board)",
+      "SG 2004",
+      "SGI (new Control Board)",
+      "T (new Control Board)"
+    ]
+  },
+  {
+    "manufacturer": "POWERTECH",
+    "models": [
+      "PC190",
+      "PL1000",
+      "PL500",
+      "PL600",
+      "PW150",
+      "PW320",
+      "PW330"
+    ]
+  },
+  {
+    "manufacturer": "PPA",
+    "models": [
+      "DZ HOME 350 JETFLEX",
+      "DZ HOME 400 JETFLEX",
+      "DZ RIO R 700 JETFLEX"
+    ]
+  },
+  {
+    "manufacturer": "PRASTEL",
+    "models": [
+      "UNIK2E (Control Board)",
+      "UNIK2ESK (Control Board)"
+    ]
+  },
+  {
+    "manufacturer": "Pro-Line",
+    "models": [
+      "CS300"
+    ]
+  },
+  {
+    "manufacturer": "Profelmnet",
+    "models": [
+      "3033"
+    ]
+  },
+  {
+    "manufacturer": "PROTECO",
+    "models": [
+      "Kit MyDiamond",
+      "Libra",
+      "Q60A-R",
+      "Q60S",
+      "Q71B",
+      "Q80A - board-",
+      "Q80S"
+    ]
+  },
+  {
+    "manufacturer": "PUJOL",
+    "models": [
+      "Mini Marathon",
+      "P-526 KS-C II",
+      "STC"
+    ]
+  },
+  {
+    "manufacturer": "Quantum",
+    "models": [
+      "3212"
+    ]
+  },
+  {
+    "manufacturer": "Quiko",
+    "models": [
+      "EON E400"
+    ]
+  },
+  {
+    "manufacturer": "Rademacher",
+    "models": [
+      "Rolloport S1",
+      "Rolloport S2",
+      "RolloPort S4",
+      "Rolloport SX5"
+    ]
+  },
+  {
+    "manufacturer": "Ramset",
+    "models": [
+      "RAM 100",
+      "RAM 1000",
+      "RAM 300",
+      "RAM 3000",
+      "RAM 3100",
+      "RAM 3200",
+      "RAM 5500",
+      "RAM-30UL",
+      "RAM5000",
+      "Star 24"
+    ]
+  },
+  {
+    "manufacturer": "Rawlink",
+    "models": [
+      "12108",
+      "12108 24V Model"
+    ]
+  },
+  {
+    "manufacturer": "RAYNOR",
+    "models": [
+      "Pilot",
+      "170",
+      "270",
+      "3280RGD",
+      "3800RGD",
+      "Aviator (model 2280RGD)",
+      "FLITESTAR",
+      "Orion 800i",
+      "POWERHOIST STANDARD -PSJ- -PSH-",
+      "Prodigy II (Model 8500RGD)"
+    ]
+  },
+  {
+    "manufacturer": "RDA",
+    "models": [
+      "750",
+      "GTA 453",
+      "GTA 500 v2"
+    ]
+  },
+  {
+    "manufacturer": "RIB",
+    "models": [
+      "K2 24V CRX",
+      "K400",
+      "K500",
+      "KIT KING",
+      "T2 24V CRX"
+    ]
+  },
+  {
+    "manufacturer": "Richards Wilcox",
+    "models": [
+      "2265RWC"
+    ]
+  },
+  {
+    "manufacturer": "Richmond",
+    "models": [
+      "GTR058",
+      "GTR062",
+      "GTR078",
+      "GTR099",
+      "GTR156",
+      "GTR207"
+    ]
+  },
+  {
+    "manufacturer": "ROGER",
+    "models": [
+      "2DCHP",
+      "B70",
+      "BG30 Series",
+      "BH23",
+      "BH30",
+      "BR20-500",
+      "G30",
+      "G40",
+      "H30",
+      "H70-103AC",
+      "H70-104AC",
+      "H70-105AC",
+      "H70-200AC",
+      "H70/11CC",
+      "H70/14CC",
+      "KR30",
+      "R70 Control Board"
+    ]
+  },
+  {
+    "manufacturer": "Rollamatic",
+    "models": [
+      "SQ80"
+    ]
+  },
+  {
+    "manufacturer": "Rollerdor",
+    "models": [
+      "RD20X2ANSA",
+      "RD77"
+    ]
+  },
+  {
+    "manufacturer": "Rollertec",
+    "models": [
+      "V2",
+      "V5"
+    ]
+  },
+  {
+    "manufacturer": "Roma",
+    "models": [
+      "GECCO",
+      "Silento Sima Plus"
+    ]
+  },
+  {
+    "manufacturer": "ROSSI",
+    "models": [
+      "DZ3 SK",
+      "DZ4 SK",
+      "KXH 30 FS"
+    ]
+  },
+  {
+    "manufacturer": "Ruku",
+    "models": [
+      "RA 120",
+      "RA 60",
+      "RUKUMAT RB 310-330",
+      "RUKUMAT RB 410-490"
+    ]
+  },
+  {
+    "manufacturer": "Rundum Meir",
+    "models": [
+      "MZ4"
+    ]
+  },
+  {
+    "manufacturer": "Ryobi",
+    "models": [
+      "GD200"
+    ]
+  },
+  {
+    "manufacturer": "RYTEC",
+    "models": [
+      "System4"
+    ]
+  },
+  {
+    "manufacturer": "Saturn",
+    "models": [
+      "E 600"
+    ]
+  },
+  {
+    "manufacturer": "Schartec",
+    "models": [
+      "Easy",
+      "Move 1000"
+    ]
+  },
+  {
+    "manufacturer": "SCHELLENBERG",
+    "models": [
+      "DRIVE 600 N",
+      "DRIVE 800 N",
+      "Smart Drive 10",
+      "TWIN 300"
+    ]
+  },
+  {
+    "manufacturer": "SCS Sentinel",
+    "models": [
+      "CarGate 800",
+      "CarOne 600",
+      "HWAY Sliding Gate",
+      "HWAY Swing Gate",
+      "MBA0095",
+      "OneGate 1",
+      "OneGate 2",
+      "OneGate 3",
+      "OpenGate 1",
+      "OpenGate 2",
+      "OpenGate 3",
+      "SCS 1"
+    ]
+  },
+  {
+    "manufacturer": "SEA",
+    "models": [
+      "2DG R2F",
+      "GATE 1 DG",
+      "GATE 2 DG",
+      "Mercury 400",
+      "Mercury 800",
+      "Saturn 500",
+      "SATURN 600 E"
+    ]
+  },
+  {
+    "manufacturer": "SEAV",
+    "models": [
+      "LRX 2149"
+    ]
+  },
+  {
+    "manufacturer": "SEG",
+    "models": [
+      "Pivus Plus"
+    ]
+  },
+  {
+    "manufacturer": "SEIP",
+    "models": [
+      "C 100 AZ",
+      "C 75",
+      "C 75 AZ",
+      "EASY SM",
+      "SE 130 TS",
+      "TM 50",
+      "TM 60",
+      "TM 80",
+      "TS 100",
+      "TS 75"
+    ]
+  },
+  {
+    "manufacturer": "Serai",
+    "models": [
+      "Mercurio 300 F",
+      "Mercurio 500 F",
+      "Mercurio 800 F"
+    ]
+  },
+  {
+    "manufacturer": "SIMTECH",
+    "models": [
+      "WJKMP201",
+      "WJKMP202"
+    ]
+  },
+  {
+    "manufacturer": "SIMU",
+    "models": [
+      "GM 800"
+    ]
+  },
+  {
+    "manufacturer": "SKY MASTER",
+    "models": [
+      "330MX",
+      "F-350GX",
+      "F-350MX"
+    ]
+  },
+  {
+    "manufacturer": "Skylink Technology",
+    "models": [
+      "ATMOS",
+      "EQ series"
+    ]
+  },
+  {
+    "manufacturer": "Smart Openers",
+    "models": [
+      "Smart Lifter"
+    ]
+  },
+  {
+    "manufacturer": "SOMFY",
+    "models": [
+      "Axorn 50",
+      "Axorn 70",
+      "Axovia 180B NS",
+      "Axovia 220",
+      "Axovia Multi Pro NS",
+      "Axovia MultiPro 3S IO",
+      "Axroll",
+      "Dexxo Optimo",
+      "DEXXO Pro 1000 IO",
+      "Dexxo Pro 1000 RTS",
+      "Dexxo Pro 800 RTS",
+      "Dexxo Smart IO",
+      "ELIXO 500 230 V RTS",
+      "ELIXO 500 230V RTS",
+      "ELIXO 500 3S IO",
+      "ELIXO 800 230V RTS",
+      "Evolvia 400",
+      "Exavia 500",
+      "Freevia 400",
+      "GDK 1100",
+      "GDK 3000",
+      "GDK 4000",
+      "GDK700",
+      "GM 800",
+      "INVISIO 3S io",
+      "IXENGO L 3S RTS",
+      "Keasy L",
+      "Keasy XL",
+      "LS430",
+      "LS8900",
+      "Metro 1000 IO",
+      "Metro 1000 RTS",
+      "Metro 800 RTS",
+      "MOTO 600 RTS",
+      "ROLLIXO IO",
+      "ROLLIXO RTS",
+      "SGS 501",
+      "SLIDYMOOVE 300"
+    ]
+  },
+  {
+    "manufacturer": "SOMMER",
+    "models": [
+      "1041V000",
+      "1042v001",
+      "1042v002",
+      "1042v003",
+      "1042v004",
+      "1042v005",
+      "1052v000",
+      "2060 evo+",
+      "2080 evo+",
+      "2110 evo+",
+      "Aperto",
+      "Aperto 868L",
+      "Duo 500 SL",
+      "Duo 650 SL",
+      "duo rapido 650",
+      "duo vision 500",
+      "duo vision 650",
+      "duo vision 800",
+      "GIGAControl A",
+      "Marathon 1100 SL",
+      "Marathon 550 SL",
+      "Marathon 800 SL",
+      "RDC Vision",
+      "RDC Vision+",
+      "RUNner",
+      "RUNner+",
+      "S 9060",
+      "S 9080",
+      "S 9110",
+      "S900",
+      "SM 40 T",
+      "SP 900",
+      "Sprint 550 SL",
+      "Sprint Evolution",
+      "Sprint S 550N",
+      "Sprint Slimline 550",
+      "Sprint Slimline 800",
+      "Starglider 300",
+      "Starter",
+      "Synoris 550 - 800",
+      "TWIST 200 E",
+      "Twist 200EL",
+      "Twist 350",
+      "Twist UG",
+      "Twist UG+",
+      "Twist XL"
+    ]
+  },
+  {
+    "manufacturer": "Sprint",
+    "models": [
+      "800 SD"
+    ]
+  },
+  {
+    "manufacturer": "STANLEY",
+    "models": [
+      "860 Deluxe",
+      "ET380",
+      "PT210",
+      "ST200",
+      "ST300",
+      "TT200",
+      "Vemco"
+    ]
+  },
+  {
+    "manufacturer": "STEEL-LINE",
+    "models": [
+      "BOL4",
+      "FORZA",
+      "RD11",
+      "RD800",
+      "SD1200",
+      "SD800",
+      "SR60",
+      "ST50EVOB",
+      "ST50EVOC"
+    ]
+  },
+  {
+    "manufacturer": "Stoddart",
+    "models": [
+      "SDO4",
+      "T-950",
+      "T1100",
+      "T1250",
+      "T850"
+    ]
+  },
+  {
+    "manufacturer": "Strongway",
+    "models": [
+      "Single Swing Gate Opener"
+    ]
+  },
+  {
+    "manufacturer": "SuperJack",
+    "models": [
+      "900E",
+      "EasyJack",
+      "SJ SL401"
+    ]
+  },
+  {
+    "manufacturer": "SUPERLIFT",
+    "models": [
+      "RDO-3",
+      "RDO-3A",
+      "S66",
+      "SDO-1C",
+      "SDO-3",
+      "SDO-5 DC"
+    ]
+  },
+  {
+    "manufacturer": "Superrollo",
+    "models": [
+      "TA50"
+    ]
+  },
+  {
+    "manufacturer": "SWS",
+    "models": [
+      "Rollertec V2",
+      "Rollertec V5",
+      "SeceuroGlide"
+    ]
+  },
+  {
+    "manufacturer": "TAU",
+    "models": [
+      "ARM2000",
+      "ARM2000F",
+      "ARM2000FC",
+      "Control Board K120M",
+      "Control Board K125M",
+      "Control Board K580M",
+      "D747M",
+      "D749MA",
+      "D760M",
+      "K100M",
+      "K130MA",
+      "K570M"
+    ]
+  },
+  {
+    "manufacturer": "TBS",
+    "models": [
+      "MP105-LED",
+      "MP125-LED",
+      "MP55-LED",
+      "MP75-LED"
+    ]
+  },
+  {
+    "manufacturer": "TDA",
+    "models": [
+      "DKC301DC",
+      "DKC400Y",
+      "FBD200",
+      "FBD220",
+      "FBD240",
+      "FBR180",
+      "ZK300DC"
+    ]
+  },
+  {
+    "manufacturer": "Teckentrup",
+    "models": [
+      "CarTeck 12.1",
+      "CarTeck 220",
+      "CarTeck 250",
+      "CarTeck 252",
+      "CarTeck DRIVE 500",
+      "CarTeck DRIVE 500 pro",
+      "CarTeck DRIVE 600",
+      "CarTeck DRIVE 600 pro",
+      "TM60"
+    ]
+  },
+  {
+    "manufacturer": "Telcoma",
+    "models": [
+      "CE TAP",
+      "T101",
+      "T200",
+      "T201",
+      "T224",
+      "ZEN 100",
+      "ZEN 60"
+    ]
+  },
+  {
+    "manufacturer": "TELECO",
+    "models": [
+      "Mydoor Basic"
+    ]
+  },
+  {
+    "manufacturer": "Tilt a Matic",
+    "models": [
+      "R240"
+    ]
+  },
+  {
+    "manufacturer": "TMP AUTOMATISMOS",
+    "models": [
+      "Sprint Low 400"
+    ]
+  },
+  {
+    "manufacturer": "TMT Automation",
+    "models": [
+      "Boxer 500",
+      "BOXER 800",
+      "PAPILLON 250"
+    ]
+  },
+  {
+    "manufacturer": "Topens",
+    "models": [
+      "A3",
+      "A3131",
+      "A3132",
+      "A3S",
+      "A5",
+      "A5131",
+      "A5132",
+      "A5S",
+      "A8",
+      "A8131",
+      "A8132",
+      "A8S",
+      "AD3S",
+      "AD5S",
+      "AD8",
+      "AD8S",
+      "AT1202",
+      "AT12131",
+      "AT12131S",
+      "AT12132",
+      "AT12132S",
+      "AT602",
+      "AT6131",
+      "AT6131S",
+      "AT6132",
+      "AT6132S",
+      "BK800",
+      "CASAR 800",
+      "CF800",
+      "CK1100",
+      "CK1200",
+      "CK2500",
+      "CK2600",
+      "CK500",
+      "CK700",
+      "DK1000(S/Y/T)",
+      "DKC1000(S/Y)",
+      "DKC1100(S/Y)",
+      "DKC2000(S/Y)",
+      "DKC500(S/Y)",
+      "DKR1100(S/Y/T)",
+      "DKR500(S/Y/T)",
+      "HJ4021",
+      "HJ4022",
+      "JY9132",
+      "KD702",
+      "KD902",
+      "LC1100",
+      "MT8012",
+      "MT9012",
+      "PW 302",
+      "PW 502",
+      "PW 802",
+      "RK1100(T)",
+      "RK1200(T)",
+      "RK2600T",
+      "RK500(T)",
+      "RK700T",
+      "RK990(T)"
+    ]
+  },
+  {
+    "manufacturer": "TopLift",
+    "models": [
+      "FS 1000"
+    ]
+  },
+  {
+    "manufacturer": "Tormatic",
+    "models": [
+      "B-1000",
+      "B-600",
+      "B-800",
+      "Black 800",
+      "DC650T",
+      "DC800T",
+      "DTS700S",
+      "GTA 550",
+      "GTA 601",
+      "GTA 602",
+      "GTA 610",
+      "GTA 611",
+      "GTA 612",
+      "GTA 615",
+      "GTA 620",
+      "GTA 630",
+      "GTA 701 NRG",
+      "GTA 702 NRG",
+      "GTA 703 NRG",
+      "R-500",
+      "R-700",
+      "RUN 601",
+      "RUN 602",
+      "W-800"
+    ]
+  },
+  {
+    "manufacturer": "Tousek",
+    "models": [
+      "DYNAMIC T20S",
+      "DYNAMIC T20S PRO",
+      "DYNAMIC T25S",
+      "DYNAMIC T25S PRO",
+      "GTZ-Digital",
+      "PRO 400",
+      "PULL T10",
+      "PULL T15",
+      "PULL T24",
+      "PULL T24 speed",
+      "PULL T5",
+      "PULL T8",
+      "PULL T8A",
+      "PULL TSA",
+      "PULL X o",
+      "PULL XD o",
+      "PULL XR 10",
+      "PULL XR 15",
+      "ST 12/4",
+      "ST 12/5",
+      "ST51",
+      "ST61",
+      "Swing X",
+      "TPS 20",
+      "TPS 20 MASTER SLAVE",
+      "TPS 20 PRO",
+      "TPS 20N",
+      "TPS 35 PRO",
+      "TPS 40 PRO",
+      "TPS 6 speed",
+      "TPS 60 PRO"
+    ]
+  },
+  {
+    "manufacturer": "Tubauto",
+    "models": [
+      "ProCom 10-3",
+      "ProCom 7-2"
+    ]
+  },
+  {
+    "manufacturer": "Unknown",
+    "models": [
+      "G-10"
+    ]
+  },
+  {
+    "manufacturer": "US AUTOMATIC",
+    "models": [
+      "300D",
+      "300S",
+      "Patriot I",
+      "Patriot II",
+      "RANGER 500",
+      "RANGER HD",
+      "SENTRY 300D",
+      "SENTRY 300S"
+    ]
+  },
+  {
+    "manufacturer": "V2Electtronica",
+    "models": [
+      "AYROS 1000D-24V",
+      "AYROS 1200-230V",
+      "AYROS 400D-230V",
+      "AYROS 500D-24V",
+      "AYROS 600D-24V",
+      "AYROS 800-230V",
+      "Calypso",
+      "CITY1",
+      "City9",
+      "EASY PLUS V2",
+      "EASY-BASIC",
+      "FLEXY2",
+      "Jedi",
+      "JEDI 1000",
+      "JEDI 700",
+      "MSV2-PP ECO",
+      "TORQ 500D-24V",
+      "TORQ400D-24V-F",
+      "TORQ500A-230V",
+      "TORQ800A-230V",
+      "V2 Vega-C"
+    ]
+  },
+  {
+    "manufacturer": "VDS",
+    "models": [
+      "Carrera 800",
+      "EURO 230 M1",
+      "EURO 230 M2",
+      "EURO220M1 Control Board",
+      "SIMPLY"
+    ]
+  },
+  {
+    "manufacturer": "Vevor",
+    "models": [
+      "SGO-8806"
+    ]
+  },
+  {
+    "manufacturer": "Vicway",
+    "models": [
+      "V230T",
+      "V430R",
+      "VT 1000E",
+      "VT PRO",
+      "VT1200M",
+      "VT380M"
+    ]
+  },
+  {
+    "manufacturer": "Viking Access",
+    "models": [
+      "F1",
+      "F1 1st Generation",
+      "G5",
+      "H10",
+      "i-8",
+      "K2",
+      "L-3",
+      "L3",
+      "MM360",
+      "R6",
+      "T-21",
+      "X9"
+    ]
+  },
+  {
+    "manufacturer": "VIPER",
+    "models": [
+      "TC-3",
+      "X50",
+      "X70"
+    ]
+  },
+  {
+    "manufacturer": "Wayne Dalton",
+    "models": [
+      "3012",
+      "3018",
+      "3213",
+      "8800",
+      "iDrive",
+      "ProDrive 3220B-Z",
+      "ProDrive 3220C",
+      "ProDrive 3220C-Z",
+      "ProDrive 3221C",
+      "ProDrive 3221C-Z",
+      "ProDrive 3222C",
+      "ProDrive 3222C-Z",
+      "ProDrive 3224C",
+      "ProDrive 3224C-Z",
+      "ProDrive 3320B",
+      "ProDrive 3322B",
+      "ProDrive 3322B-Z",
+      "ProDrive 3324B",
+      "ProDrive 3324B-Z",
+      "Quantum 3212",
+      "Quantum 3214",
+      "Quantum 3314",
+      "Quantum 3316",
+      "Quantum 3414",
+      "Wizard 2113"
+    ]
+  },
+  {
+    "manufacturer": "WECLA",
+    "models": [
+      "Sesam 500 KL46",
+      "TMM S2500",
+      "TMM S2500A"
+    ]
+  },
+  {
+    "manufacturer": "Wisniowski",
+    "models": [
+      "Awso2000",
+      "AWso2018",
+      "Intro 1000",
+      "Intro 600",
+      "Metro 1000 RTS",
+      "Metro 800 RTS",
+      "MIDO 1000",
+      "MIDO 600",
+      "MIDO 800",
+      "MOTO 750 RTS",
+      "ST-2"
+    ]
+  },
+  {
+    "manufacturer": "Xtreme",
+    "models": [
+      "425-1620",
+      "425-1636",
+      "425-1668",
+      "425-1670",
+      "425-1672"
+    ]
+  },
+  {
+    "manufacturer": "ZAP",
+    "models": [
+      "800",
+      "8800 Series 3"
+    ]
+  },
+  {
+    "manufacturer": "ZAREBA",
+    "models": [
+      "G452"
+    ]
+  },
+  {
+    "manufacturer": "Zec Automation",
+    "models": [
+      "FR800"
+    ]
+  }
+]

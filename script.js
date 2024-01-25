@@ -1,6 +1,6 @@
 const manufacturerSelect = document.getElementById('manufacturerSelect');
 const modelSelect = document.getElementById('modelSelect');
-const carImagesContainer = document.getElementById('carImagesContainer');
+const carImagesContainer = document.getElementById('imageContainer'); // Update to match your HTML
 let carData; // Variable to store the fetched JSON data
 
 // Fetch car data from the server
@@ -19,6 +19,7 @@ fetch('http://localhost:3000/api/items')
   .catch(error => {
     console.error('Error fetching car data', error);
   });
+
 function populateDropdowns(manufacturerNames) {
   // Clear existing options
   manufacturerSelect.innerHTML = '';
@@ -67,9 +68,39 @@ function updateModels(manufacturer) {
       modelSelect.add(modelOption);
     });
 
-    // Additional logic to update car images if needed
+    // Display images for the default model initially
+    updateImages(manufacturer, 'selectModel');
   } else {
     modelSelect.disabled = true;
+  }
+}
+
+function updateImages(manufacturer, model) {
+  // Ensure that carImagesContainer is not null
+  if (!carImagesContainer) {
+    console.error('Error: carImagesContainer is null');
+    return;
+  }
+
+  // Clear existing images
+  carImagesContainer.innerHTML = '';
+
+  // Find the selected car in the carData array
+  const selectedCar = carData.find(item => item.manufacturer.toLowerCase() === manufacturer && item.models.includes(model));
+
+  // Display images if the car is found
+  if (selectedCar && selectedCar.images && selectedCar.images.length > 0) {
+    selectedCar.images.forEach(imageSrc => {
+      const imageElement = document.createElement('img');
+      imageElement.src = imageSrc;
+      imageElement.alt = `${selectedCar.manufacturer} ${selectedCar.model}`;
+      carImagesContainer.appendChild(imageElement);
+    });
+  } else {
+    // If no images are found, display a default message or take any other action
+    const noImagesMessage = document.createElement('p');
+    noImagesMessage.textContent = 'No images available for the selected model.';
+    carImagesContainer.appendChild(noImagesMessage);
   }
 }
 
@@ -79,6 +110,9 @@ function handleManufacturerChange() {
 }
 
 function handleSelectionChange(selectBox) {
+  const selectedManufacturer = manufacturerSelect.value.toLowerCase();
+  const selectedModel = modelSelect.value.toLowerCase();
+  updateImages(selectedManufacturer, selectedModel);
   console.log(`Selected value in ${selectBox.id}: ${selectBox.value}`);
 }
 

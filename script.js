@@ -19,12 +19,22 @@ fetch('http://localhost:3000/api/items')
   .catch(error => {
     console.error('Error fetching car data', error);
   });
-
 function populateDropdowns(manufacturerNames) {
   // Clear existing options
   manufacturerSelect.innerHTML = '';
   modelSelect.innerHTML = '';
   carImagesContainer.innerHTML = '';
+
+  // Add default options
+  const defaultManufacturerOption = document.createElement('option');
+  defaultManufacturerOption.value = 'selectManufacturer';
+  defaultManufacturerOption.text = 'Select Manufacturer';
+  manufacturerSelect.add(defaultManufacturerOption);
+
+  const defaultModelOption = document.createElement('option');
+  defaultModelOption.value = 'selectModel';
+  defaultModelOption.text = 'Select Model';
+  modelSelect.add(defaultModelOption);
 
   // Populate manufacturer dropdown
   manufacturerNames.forEach(manufacturerName => {

@@ -1,118 +1,136 @@
-const manufacturerSelect = document.getElementById('manufacturerSelect');
-const modelSelect = document.getElementById('modelSelect');
-const carImagesContainer = document.getElementById('imageContainer'); // Update to match your HTML
-let carData; // Variable to store the fetched JSON data
+let carData;
+document.addEventListener('DOMContentLoaded', function() {
+    const manufacturerSelect = document.getElementById('manufacturerSelect');
+    const modelSelect = document.getElementById('modelSelect');
+    const carImagesContainer = document.getElementById('imageContainer');
 
-// Fetch car data from the server
-fetch('http://localhost:3000/api/items')
-  .then(response => response.json())
-  .then(data => {
-    // Store the fetched data
-    carData = data;
+    const apiUrl = 'http://localhost:3000/api/items';
 
-    // Extract manufacturer names from the array of objects
-    const manufacturerNames = data.map(item => item.manufacturer);
+    fetch(apiUrl)
+        .then(response => {
+            if (!response.ok) {
+                throw new Error('Network response was not ok');
+            }
+            return response.json();
+        })
+        .then(data => {
+            carData = data;
+            const manufacturerNames = data.map(item => item.manufacturer);
+            populateDropdowns(manufacturerNames);
+        })
+        .catch(error => {
+            console.error('Error fetching car data:', error);
+        });
 
-    // Call the function to populate the manufacturer dropdown and update models
-    populateDropdowns(manufacturerNames);
-  })
-  .catch(error => {
-    console.error('Error fetching car data', error);
-  });
+    function populateDropdowns(manufacturerNames) {
+        clearDropdowns();
+        const defaultOption = createOption('Select', 'select');
+        manufacturerSelect.add(defaultOption);
 
-function populateDropdowns(manufacturerNames) {
-  // Clear existing options
-  manufacturerSelect.innerHTML = '';
-  modelSelect.innerHTML = '';
-  carImagesContainer.innerHTML = '';
+        manufacturerNames.forEach(manufacturerName => {
+            const option = createOption(manufacturerName, manufacturerName.toLowerCase());
+            manufacturerSelect.add(option);
+        });
 
-  // Add default options
-  const defaultManufacturerOption = document.createElement('option');
-  defaultManufacturerOption.value = 'selectManufacturer';
-  defaultManufacturerOption.text = 'Select Manufacturer';
-  manufacturerSelect.add(defaultManufacturerOption);
+        manufacturerSelect.addEventListener('change', handleManufacturerChange);
+        modelSelect.addEventListener('change', handleModelChange);
+    }
 
-  const defaultModelOption = document.createElement('option');
-  defaultModelOption.value = 'selectModel';
-  defaultModelOption.text = 'Select Model';
-  modelSelect.add(defaultModelOption);
+    function clearDropdowns() {
+        manufacturerSelect.innerHTML = '';
+        modelSelect.innerHTML = '';
+        carImagesContainer.innerHTML = '';
+    }
 
-  // Populate manufacturer dropdown
-  manufacturerNames.forEach(manufacturerName => {
-    const manufacturerOption = document.createElement('option');
-    manufacturerOption.value = manufacturerName.toLowerCase();
-    manufacturerOption.text = manufacturerName;
-    manufacturerSelect.add(manufacturerOption);
-  });
+    function createOption(text, value) {
+        const option = document.createElement('option');
+        option.value = value;
+        option.text = text;
+        return option;
+    }
 
-  // Add event listeners
-  manufacturerSelect.addEventListener('change', handleManufacturerChange);
-  modelSelect.addEventListener('change', () => handleSelectionChange(modelSelect));
-}
+    function handleManufacturerChange() {
+        const manufacturer = manufacturerSelect.value;
+        updateModels(manufacturer);
+    }
 
-function updateModels(manufacturer) {
-  // Find the selected manufacturer in the carData array
-  const selectedManufacturer = carData.find(item => item.manufacturer.toLowerCase() === manufacturer);
-  const models = selectedManufacturer ? selectedManufacturer.models : [];
+    function handleModelChange() {
+        const manufacturer = manufacturerSelect.value;
+        const model = modelSelect.value;
+        updateImages(manufacturer, model);
+    }
 
-  modelSelect.innerHTML = '';
-  carImagesContainer.innerHTML = '';
+    function updateModels(manufacturer) {
+        const selectedManufacturer = carData.find(item => item.manufacturer.toLowerCase() === manufacturer);
+        const models = selectedManufacturer ? selectedManufacturer.models : [];
 
-  if (models.length > 0) {
-    modelSelect.disabled = false;
+        clearModels();
 
-    models.forEach(modelText => {
-      const modelOption = document.createElement('option');
-      modelOption.value = modelText.toLowerCase();
-      modelOption.text = modelText;
-      modelSelect.add(modelOption);
+        if (models.length > 0) {
+            models.forEach(modelText => {
+                const option = createOption(modelText, modelText.toLowerCase());
+                modelSelect.add(option);
+            });
+            modelSelect.disabled = false;
+            updateImages(manufacturer, 'select');
+        } else {
+            modelSelect.disabled = true;
+        }
+    }
+
+    function clearModels() {
+        modelSelect.innerHTML = '';
+        carImagesContainer.innerHTML = '';
+    }
+
+    function updateImages(manufacturer, model) {
+        clearImages();
+        const selectedCar = carData.find(item => item.manufacturer.toLowerCase() === manufacturer && item.models.includes(model));
+
+        if (selectedCar && selectedCar.images && selectedCar.images.length > 0) {
+            selectedCar.images.forEach(imageSrc => {
+                const imageElement = document.createElement('img');
+                imageElement.src = imageSrc;
+                imageElement.alt = `${selectedCar.manufacturer} ${selectedCar.model}`;
+                carImagesContainer.appendChild(imageElement);
+            });
+        } else {
+            const noImagesMessage = document.createElement('p');
+            noImagesMessage.textContent = 'No images available for the selected model.';
+            carImagesContainer.appendChild(noImagesMessage);
+        }
+    }
+
+    function clearImages() {
+        carImagesContainer.innerHTML = '';
+    }
+});
+
+function handleSearch() {
+    const searchInput = document.getElementById('searchInput').value.toLowerCase().trim();
+    const searchList = document.getElementById('searchList');
+    
+    console.log('Search input:', searchInput);
+
+    // Clear previous search results
+    searchList.innerHTML = '';
+
+    // Filter data based on search input
+    const filteredData = carData.filter(item => {
+        const manufacturerMatch = item.manufacturer.toLowerCase().includes(searchInput);
+        const modelMatch = item.models.some(model => model.toLowerCase().includes(searchInput));
+        return manufacturerMatch || modelMatch;
     });
 
-    // Display images for the default model initially
-    updateImages(manufacturer, 'selectModel');
-  } else {
-    modelSelect.disabled = true;
-  }
-}
+    console.log('Filtered data:', filteredData);
 
-function updateImages(manufacturer, model) {
-  // Ensure that carImagesContainer is not null
-  if (!carImagesContainer) {
-    console.error('Error: carImagesContainer is null');
-    return;
-  }
-
-  // Clear existing images
-  carImagesContainer.innerHTML = '';
-
-  // Find the selected car in the carData array
-  const selectedCar = carData.find(item => item.manufacturer.toLowerCase() === manufacturer && item.models.includes(model));
-
-  // Display images if the car is found
-  if (selectedCar && selectedCar.images && selectedCar.images.length > 0) {
-    selectedCar.images.forEach(imageSrc => {
-      const imageElement = document.createElement('img');
-      imageElement.src = imageSrc;
-      imageElement.alt = `${selectedCar.manufacturer} ${selectedCar.model}`;
-      carImagesContainer.appendChild(imageElement);
+    // Populate search list with filtered data
+    filteredData.forEach(item => {
+        const option = document.createElement('option');
+        option.value = `${item.manufacturer} - ${item.models.join(', ')}`;
+        searchList.appendChild(option);
     });
-  } else {
-    // If no images are found, display a default message or take any other action
-    const noImagesMessage = document.createElement('p');
-    noImagesMessage.textContent = 'No images available for the selected model.';
-    carImagesContainer.appendChild(noImagesMessage);
-  }
-}
 
-function handleManufacturerChange() {
-  const selectedManufacturer = manufacturerSelect.value.toLowerCase();
-  updateModels(selectedManufacturer);
-}
-
-function handleSelectionChange(selectBox) {
-  const selectedManufacturer = manufacturerSelect.value.toLowerCase();
-  const selectedModel = modelSelect.value.toLowerCase();
-  updateImages(selectedManufacturer, selectedModel);
-  console.log(`Selected value in ${selectBox.id}: ${selectBox.value}`);
+    console.log('Search list:', searchList);
 }
 

@@ -8,10 +8,14 @@
 </head>
 <body>
 
+<div class="search-container">
+  <input type="text" id="searchInput" oninput="handleSearch()" placeholder="Type the model or manufacturer of your opener">
+</div>
+
 <div class="container">
   <div class="select-box">
     <label for="manufacturerSelect">Select Manufacturer:</label>
-    <select id="manufacturerSelect" onchange="handleManufacturerChange()">
+    <select id="manufacturerSelect" onchange="handleSelectionChange(this)">
       <option value="selectManufacturer">Select Manufacturer</option>
     </select>
   </div>
@@ -24,13 +28,19 @@
   </div>
 </div>
 
+
+<datalist id="searchList">
+  <!-- Search list will be populated here -->	
+</datalist>
+
+
+
+
 <div id="imageContainer" class="image-container">
-  <!-- Image containers with unique IDs -->
-  <div id="imageContainer1"></div>
-  <div id="imageContainer2"></div>
+  <!-- Images will be displayed here -->
 </div>
 
-<script src="./script.js"></script>
+<script src="./script.js" defer></script>
 </body>
 </html>
 

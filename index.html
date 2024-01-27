@@ -8,33 +8,30 @@
 </head>
 <body>
 
-<div class="search-container">
-  <input type="text" id="searchInput" oninput="handleSearch()" placeholder="Type the model or manufacturer of your opener">
-</div>
-
 <div class="container">
-  <div class="select-box">
-    <label for="manufacturerSelect">Select Manufacturer:</label>
-    <select id="manufacturerSelect" onchange="handleSelectionChange(this)">
-      <option value="selectManufacturer">Select Manufacturer</option>
-    </select>
+  <div class="search-container">
+    <input type="text" id="searchInput" oninput="handleSearch()" placeholder="Type the model or manufacturer of your opener">
   </div>
 
-  <div class="select-box">
-    <label for="modelSelect">Select Model:</label>
-    <select id="modelSelect" disabled>
-      <option value="selectModel">Select Model</option>
-    </select>
+  <div class="selectors-container">
+    <div class="select-box">
+      <label for="manufacturerSelect">Select Manufacturer:</label>
+      <select id="manufacturerSelect" onchange="handleSelectionChange(this)">
+        <option value="selectManufacturer">Select Manufacturer</option>
+      </select>
+    </div>
+
+    <div class="select-box">
+      <label for="modelSelect">Select Model:</label>
+      <select id="modelSelect" disabled>
+        <option value="selectModel">Select Model</option>
+      </select>
+    </div>
   </div>
 </div>
 
-
-<datalist id="searchList">
-  <!-- Search list will be populated here -->	
-</datalist>
-
-
-
+<!-- Display search results here -->
+<div id="searchResults"></div>
 
 <div id="imageContainer" class="image-container">
   <!-- Images will be displayed here -->
@@ -42,5 +39,4 @@
 
 <script src="./script.js" defer></script>
 </body>
-</html>
 

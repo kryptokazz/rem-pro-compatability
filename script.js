@@ -108,12 +108,10 @@ document.addEventListener('DOMContentLoaded', function() {
 
 function handleSearch() {
     const searchInput = document.getElementById('searchInput').value.toLowerCase().trim();
-    const searchList = document.getElementById('searchList');
+    const searchResultsContainer = document.getElementById('searchResults');
     
-    console.log('Search input:', searchInput);
-
     // Clear previous search results
-    searchList.innerHTML = '';
+    searchResultsContainer.innerHTML = '';
 
     // Filter data based on search input
     const filteredData = carData.filter(item => {
@@ -122,15 +120,31 @@ function handleSearch() {
         return manufacturerMatch || modelMatch;
     });
 
-    console.log('Filtered data:', filteredData);
+    // Limit the number of search results to 60
+    const limitedResults = filteredData.slice(0, 60);
 
-    // Populate search list with filtered data
-    filteredData.forEach(item => {
-        const option = document.createElement('option');
-        option.value = `${item.manufacturer} - ${item.models.join(', ')}`;
-        searchList.appendChild(option);
+    // Create HTML elements for each search result and append to container
+    limitedResults.forEach(item => {
+        const manufacturer = item.manufacturer;
+        const models = item.models;
+
+        // Create a div for manufacturer and models
+        const resultElement = document.createElement('div');
+        resultElement.classList.add('search-result'); // Add a CSS class for styling
+
+        // Display models for the manufacturer
+        models.forEach(model => {
+            const modelWithManufacturer = `${manufacturer}: ${model}`;
+            const modelNode = document.createElement('p');
+            modelNode.textContent = modelWithManufacturer;
+            resultElement.appendChild(modelNode);
+        });
+
+        // Append a line break after each manufacturer's models
+        resultElement.appendChild(document.createElement('br'));
+
+        // Append result element to container
+        searchResultsContainer.appendChild(resultElement);
     });
-
-    console.log('Search list:', searchList);
 }
 

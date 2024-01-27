@@ -18,7 +18,7 @@ app.use((req, res, next) => {
 // Define route for serving JSON data
 app.get('/api/items', (req, res) => {
   // Read JSON data from file and send it as response
-  fs.readFile(path.join(__dirname, './data', 'list.json'), 'utf8', (err, data) => {
+  fs.readFile(path.join(__dirname, '../data', 'list.json'), 'utf8', (err, data) => {
     if (err) {
       console.error(err);
       res.status(500).send('Internal Server Error');

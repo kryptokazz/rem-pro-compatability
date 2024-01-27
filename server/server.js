@@ -15,7 +15,7 @@ app.use((req, res, next) => {
 
 
 app.get('/api/items', (req, res) => {
-  fs.readFile('./data/list.json', 'utf8', (err, data) => {
+  fs.readFile('../data/list.json', 'utf8', (err, data) => {
     if (err) {
       console.error(err);
       res.status(500).send('Internal Server Error');

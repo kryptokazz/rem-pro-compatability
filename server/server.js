@@ -1,10 +1,12 @@
 const express = require('express');
 const fs = require('fs');
+const path = require('path');
 
 const app = express();
 const port = 3000;
 
-
+// Use path.join to construct the correct file path
+const dataFilePath = path.join(__dirname, 'data', 'list.json');
 
 app.use((req, res, next) => {
   res.header('Access-Control-Allow-Origin', '*');
@@ -12,10 +14,8 @@ app.use((req, res, next) => {
   next();
 });
 
-
-
 app.get('/api/items', (req, res) => {
-  fs.readFile('../data/list.json', 'utf8', (err, data) => {
+  fs.readFile(dataFilePath, 'utf8', (err, data) => {
     if (err) {
       console.error(err);
       res.status(500).send('Internal Server Error');
@@ -29,3 +29,4 @@ app.get('/api/items', (req, res) => {
 app.listen(port, () => {
   console.log(`Server running at http://localhost:${port}`);
 });
+

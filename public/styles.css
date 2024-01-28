@@ -10,6 +10,37 @@ body {
 }
 
 
+/* Example of basic mobile-friendly CSS */
+
+/* Media query for smaller screens */
+@media only screen and (max-width: 600px) {
+  .container {
+    width: 90%; /* Adjust width for smaller screens */
+  }
+
+  .selectors-container {
+    flex-direction: column; /* Stack dropdowns vertically on smaller screens */
+  }
+
+  select, #searchInput {
+    font-size: 14px; /* Decrease font size for smaller screens */
+  }
+}
+
+
+
+
+
+.select-box {
+	width: 50%;
+	margin: 0 auto;
+}
+
+
+
+
+
+
 .container {
   display: flex;
   flex-direction: column;
@@ -59,7 +90,9 @@ body {
 }
 
 label {
-  margin-bottom: 5px;
+  display: block;
+  margin-bottom: 10px;
+  font-weight: bold;
 }
 
 select, #searchInput {
@@ -72,3 +105,10 @@ select, #searchInput {
   outline: none;
 }
 
+select:focus, #searchInput:focus {
+  border-color: #4a90e2;
+}
+
+select:hover {
+  background-color: #f0f0f0; /* Change background color on hover */
+}

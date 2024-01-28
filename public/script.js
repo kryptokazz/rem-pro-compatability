@@ -1,4 +1,5 @@
 let carData;
+
 document.addEventListener('DOMContentLoaded', function() {
     const manufacturerSelect = document.getElementById('manufacturerSelect');
     const modelSelect = document.getElementById('modelSelect');
@@ -103,6 +104,10 @@ document.addEventListener('DOMContentLoaded', function() {
 
     function clearImages() {
         carImagesContainer.innerHTML = '';
+    }
+
+    function handleSelectionChange(selectElement) {
+        console.log("Selected value:", selectElement.value);
     }
 });
 

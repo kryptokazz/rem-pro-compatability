@@ -1,42 +1,36 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Manufacturer and Model Selection</title>
-  <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-
-<div class="container">
-  <div class="search-container">
-    <input type="text" id="searchInput" oninput="handleSearch()" placeholder="Type the model or manufacturer of your opener">
-  </div>
-
-  <div class="selectors-container">
-    <div class="select-box">
-      <label for="manufacturerSelect">Select Manufacturer:</label>
-      <select id="manufacturerSelect">
-        <option value="selectManufacturer">Select Manufacturer</option>
-      </select>
-    </div>
-
-    <div class="select-box">
-      <label for="modelSelect">Select Model:</label>
-      <select id="modelSelect" disabled>
-        <option value="selectModel">Select Model</option>
-      </select>
-    </div>
-  </div>
-</div>
-
-<!-- Display search results here -->
-<div id="searchResults"></div>
-
-<div id="imageContainer" class="image-container">
-  <!-- Images will be displayed here -->
-</div>
-
-<script src="./script.js" defer></script>
-</body>
+<!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+  <meta charset="UTF-8"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <title>Manufacturer and Model Selection</title> 
+  <link rel="stylesheet" href="styles.css"> 
+</head> 
+<body> 
+  <div class="container"> 
+    <div class="search-container"> 
+      <input type="text" id="searchInput" oninput="handleSearch()" placeholder="Type the model or manufacturer of your opener"> 
+    </div> 
+    <div class="selectors-container"> 
+      <div class="select-box"> 
+        <label for="manufacturerSelect">Select Manufacturer:</label> 
+        <select id="manufacturerSelect"> 
+          <option value="selectManufacturer">Select Manufacturer</option> 
+        </select> 
+      </div> 
+      <div class="select-box"> 
+        <label for="modelSelect">Select Model:</label> 
+        <select id="modelSelect" disabled> 
+          <option value="selectModel">Select Model</option> 
+        </select> 
+      </div> 
+    </div> 
+  </div> 
+  <!-- Display search results here --> 
+  <div id="searchResults"></div> 
+  <div id="imageContainer" class="image-container"> <!-- Images will be displayed here --> </div> 
+  <button id="darkModeToggle" onclick="toggleDarkMode()">Dark Mode</button> 
+  <script src="./script.js" defer></script> 
+</body> 
+</html>
 

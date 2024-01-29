@@ -1,5 +1,13 @@
 let carData;
 
+function toggleDarkMode() {
+  const body = document.body;
+  body.classList.toggle('dark-mode');
+}
+
+
+
+
 document.addEventListener('DOMContentLoaded', function() {
     const manufacturerSelect = document.getElementById('manufacturerSelect');
     const modelSelect = document.getElementById('modelSelect');

@@ -1,36 +1,44 @@
-<!DOCTYPE html> 
-<html lang="en"> 
-<head> 
-  <meta charset="UTF-8"> 
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-  <title>Manufacturer and Model Selection</title> 
-  <link rel="stylesheet" href="styles.css"> 
-</head> 
-<body> 
-  <div class="container"> 
-    <div class="search-container"> 
-      <input type="text" id="searchInput" oninput="handleSearch()" placeholder="Type the model or manufacturer of your opener"> 
-    </div> 
-    <div class="selectors-container"> 
-      <div class="select-box"> 
-        <label for="manufacturerSelect">Select Manufacturer:</label> 
-        <select id="manufacturerSelect"> 
-          <option value="selectManufacturer">Select Manufacturer</option> 
-        </select> 
-      </div> 
-      <div class="select-box"> 
-        <label for="modelSelect">Select Model:</label> 
-        <select id="modelSelect" disabled> 
-          <option value="selectModel">Select Model</option> 
-        </select> 
-      </div> 
-    </div> 
-  </div> 
-  <!-- Display search results here --> 
-  <div id="searchResults"></div> 
-  <div id="imageContainer" class="image-container"> <!-- Images will be displayed here --> </div> 
-  <button id="darkModeToggle" onclick="toggleDarkMode()">Dark Mode</button> 
-  <script src="./script.js" defer></script> 
-</body> 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Compatibility Verification | Remootio</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="compatibility-info-container">
+  <div class="compatibility-info">
+    <h1>Compatibility Verification</h1>
+    <p>Remote Pro is designed to seamlessly integrate with a wide range of electric gates, garage door openers, and electric strikes. Acting akin to a traditional push-button, it easily connects to your existing opener via a simple two-wire setup.</p>
+    <p>If you're uncertain about the compatibility of your device with Remote, or if you don't see your device listed in our compatibility checker, don't hesitate to reach out to us. You can use the contact form below or send us an email at placeholder@mail.com for assistance.</p>
+    <h2>Compatibility Checker</h2>
+    <p>To confirm compatibility with your gate or garage door, simply enter the model or manufacturer number of your opener in the textbox below. Our compatibility checker will then provide you with a list of compatible options. If you're unable to find your device in the compatibility checker, please feel free to contact us via the form below or email us directly at placeholder@mail.com.</p>
+  </div>
+</div>
+  <div class="container">
+    <div class="search-container">
+      <input type="text" id="searchInput" oninput="handleSearch()" placeholder="Type the model or manufacturer of your opener">
+    </div>
+    <div class="selectors-container">
+      <div class="select-box">
+        <label for="manufacturerSelect">Select Manufacturer:</label>
+        <select id="manufacturerSelect">
+          <option value="selectManufacturer">Select Manufacturer</option>
+        </select>
+      </div>
+      <div class="select-box">
+        <label for="modelSelect">Select Model:</label>
+        <select id="modelSelect" disabled>
+          <option value="selectModel">Select Model</option>
+        </select>
+      </div>
+    </div>
+  </div>
+  <!-- Display search results here -->
+  <div id="searchResults"></div>
+  <div id="imageContainer" class="image-container"> <!-- Images will be displayed here --> </div>
+  <script src="./script.js" defer></script>
+</body>
 </html>
 
